@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25",
+  "announcements": [
+    {
+      "id": "texture-loom-1-5",
+      "title": "Texture Loom 1.5 is here",
+      "message": "The free granular instrument now has independent granular engines, eight-voice polyphony and a new modulation workspace.",
+      "url": "https://s1gnsofl1fe.gumroad.com/l/texture-loom",
+      "cta": "Get it free",
+      "expires": "2026-12-31"
+    }
+  ],
+  "vault": [
+    {
+      "id": "ambient-masterclass",
+      "title": "Ambient Masterclass",
+      "subtitle": "A full ambient track, start to finish",
+      "kind": "youtube",
+      "category": "Tutorials",
+      "featured": true,
+      "youtubeId": "k-qGfiGGvE0",
+      "duration": "50:45",
+      "publishedAt": "2024-07-25",
+      "summary": "Chris builds a complete ambient track from the first sound to the final arrangement, using a range of synthesizers and techniques to help take your music to the next level.",
+      "body": [
+        "Want to follow along with the exact modular setup from the video? Grab the free VCV Rack patch below, open it in VCV Rack (free) and explore it as you watch."
+      ],
+      "attachments": [
+        {
+          "title": "Ambient Masterclass VCV Rack Pack",
+          "url": "https://www.s1gnsofl1fe.com/merch/p/ambient-masterclass-vcv-rack-pack",
+          "kind": "VCV Rack patch",
+          "size": "Free"
+        }
+      ],
+      "tags": [
+        "VCV Rack",
+        "Full track",
+        "Sound design"
+      ]
+    },
+    {
+      "id": "ambient-drone-starter-pack",
+      "title": "Ambient Drone Starter Pack",
+      "subtitle": "Five 24-bit drones from the modular",
+      "kind": "download",
+      "category": "Sample Packs",
+      "featured": true,
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/64b43927b9957a51458f6afa/9ab37ad6-6eb3-4a1c-bf84-75a1989e847c/AmbientDroneSamplePack.jpg?format=750w",
+      "mediaURL": "https://www.s1gnsofl1fe.com/merch/p/ambient-drone-starter-pack",
+      "youtubeId": "s0AXw7zE8iY",
+      "publishedAt": "2025-09-14",
+      "summary": "Five drone samples recorded in 24-bit from Chris's modular synthesizer, made to go with the “Ambient drones for beginners” tutorial.",
+      "body": [
+        "In the companion video, Chris builds a deep, atmospheric drone step by step using nothing but a free sample, the free Vital synth and a mix of free and paid effects. Download the pack, then build your first drone alongside him."
+      ],
+      "tags": [
+        "Samples",
+        "Drones",
+        "Modular",
+        "Vital"
+      ]
+    },
+    {
+      "id": "particle-glow-sample-pack",
+      "title": "Particle Glow Sample Pack",
+      "subtitle": "For the Absolute Beginners tutorial",
+      "kind": "download",
+      "category": "Sample Packs",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/64b43927b9957a51458f6afa/1717459068594-7TY8UTVPLOOATJXCK2QU/particleglow.jpg?format=750w",
+      "mediaURL": "https://www.s1gnsofl1fe.com/merch/p/particle-glow-sample-pack",
+      "youtubeId": "95cHiqdoDsc",
+      "publishedAt": "2024-06-04",
+      "summary": "The ambient sample pack from “Ambient Tutorial for Absolute Beginners”, with four extra bonus samples.",
+      "body": [
+        "In the tutorial, Chris makes an ambient track from scratch with a few very simple tools and techniques: sampling, Vital for the bass, and a sequence. Perfect if you're opening a DAW for the first time."
+      ],
+      "tags": [
+        "Samples",
+        "Beginner",
+        "Vital"
+      ]
+    },
+    {
+      "id": "nexus-peak-preset-midi-pack",
+      "title": "Nexus Peak Preset & MIDI Pack",
+      "subtitle": "Rebuild a track from Portal to Transcendence",
+      "kind": "download",
+      "category": "Presets",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/64b43927b9957a51458f6afa/1716140299391-8SK9N1T89XH3XWSDB4KG/NexusPeakPack.jpg?format=750w",
+      "mediaURL": "https://www.s1gnsofl1fe.com/merch/p/nexus-peak-preset-midi-pack",
+      "youtubeId": "SeXAFDZfRgI",
+      "publishedAt": "2024-05-21",
+      "summary": "The Vital presets and MIDI files behind “Nexus Peak”, so you can recreate the track yourself.",
+      "body": [
+        "“Nexus Peak” is from the S1gns Of L1fe album Portal to Transcendence on Synphaera. In the companion video Chris walks through how to rebuild it: load the presets, drop in the MIDI and follow along."
+      ],
+      "tags": [
+        "Vital",
+        "Presets",
+        "MIDI"
+      ]
+    },
+    {
+      "id": "beginner-ambient-tutorial",
+      "title": "Beginner Ambient Tutorial",
+      "subtitle": "A 30-minute track with free Vital presets",
+      "kind": "youtube",
+      "category": "Tutorials",
+      "youtubeId": "EWYMsvTFdUA",
+      "duration": "29:29",
+      "publishedAt": "2023-10-22",
+      "summary": "Create an ambient track from scratch in Vital, using a free pack of presets Chris designed for this lesson.",
+      "body": [
+        "S1gns Beginner Pack 02 has eight Vital presets: a bass, a sequence, three pads, a soundscape, a lead and a sweet ambient pluck. Download it below and build the track with him."
+      ],
+      "attachments": [
+        {
+          "title": "S1gns Beginner Pack 02",
+          "url": "https://www.s1gnsofl1fe.com/merch/p/s1gns-beginner-pack-02",
+          "kind": "8 Vital presets",
+          "size": "Free"
+        }
+      ],
+      "tags": [
+        "Vital",
+        "Presets",
+        "Beginner"
+      ]
+    },
+    {
+      "id": "creating-icy-drones",
+      "title": "Creating Icy Drones From Scratch",
+      "subtitle": "Four ways to conjure cold, otherworldly drones",
+      "kind": "article",
+      "category": "Articles",
+      "publishedAt": "2025-01-15",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/64b43927b9957a51458f6afa/1764177127273-FRKOHNF9EV2PWLFT6MIW/unsplash-image-eB9LApAsDJA.jpg?format=1500w",
+      "mediaURL": "https://www.s1gnsofl1fe.com/s1gnsblog/creating-icy-drones-from-scratch",
+      "summary": "Those dark, icy drones that conjure alien landscapes aren't about owning the right gear. It's how you use the tools you already have.",
+      "body": [
+        "**FM is your friend.** Frequency modulation pushes shimmering upper harmonics into your reverb and sounds fantastic in the low registers. No dedicated FM synth? Vital and Serum can do “pseudo FM” between oscillators. Tame it with an envelope or LFO, because things get wild fast. Surge XT, Dune 3 and Phase Plant are great here too.",
+        "**Embrace modular.** Modular gives you true FM in many flavours and total control over what modulates what. VCV Rack (free), Voltage Modular, Softube Modular or real Eurorack all work. Keep experimenting with synthesis and modulation; you can even run audio into modulation inputs.",
+        "**Reverb for space.** Don't just max out size and decay and let the reverb do everything. Keep size and decay high, but start with the mix around 25–50%. The drone's natural harmonics come through, and the reverb carries on where the synth leaves off.",
+        "**Don't forget the bass.** A slow-moving bass layer gives your drone a foundation the listener can feel. Pair it with an icy pad drone and the effect is far more dramatic than either on its own."
+      ],
+      "tags": [
+        "Drones",
+        "Sound design",
+        "FM",
+        "Reverb"
+      ]
+    },
+    {
+      "id": "sounds-of-japan",
+      "title": "The Sounds of Japan",
+      "subtitle": "Free field recordings",
+      "kind": "download",
+      "category": "Field Recordings",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/64b43927b9957a51458f6afa/1715705267323-OO2R06O21R54MTIGY46G/TheSoundsofJapanSQ.jpg?format=750w",
+      "mediaURL": "https://www.s1gnsofl1fe.com/merch/p/4yrud45zk7sf8unf4ky71apnnqw4hp",
+      "summary": "A free collection of field recordings from Japan: raw material for textures, beds and atmospheres.",
+      "tags": [
+        "Field recordings",
+        "Samples"
+      ]
+    },
+    {
+      "id": "16-free-glitch-percs",
+      "title": "16 Free Glitch Percs",
+      "subtitle": "Hits, clicks and textures",
+      "kind": "download",
+      "category": "Sample Packs",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/64b43927b9957a51458f6afa/5c4ec895-0106-4b38-a47a-97bae442d6fe/16GlitchPercs.jpg?format=750w",
+      "mediaURL": "https://www.s1gnsofl1fe.com/merch/p/16-free-glitch-percs",
+      "summary": "Glitch percussion hits, clicks and textures for ambient, IDM and experimental beats. Instant futuristic rhythm for your tracks.",
+      "tags": [
+        "Glitch",
+        "Percussion",
+        "Samples"
+      ]
+    },
+    {
+      "id": "texture-loom",
+      "title": "Texture Loom 1.5",
+      "subtitle": "A free dual-source granular instrument",
+      "kind": "link",
+      "category": "Instruments",
+      "thumbnail": "https://public-files.gumroad.com/fn9hwdo9jdaly1797sdbih2fhm9h",
+      "mediaURL": "https://s1gnsofl1fe.gumroad.com/l/texture-loom",
+      "summary": "Load two samples and weave them into evolving pads, drones, cinematic beds and playable clouds. For macOS (AU/VST3) and Windows (VST3).",
+      "body": [
+        "Each source can play back conventionally or as a cloud of grains, with control over grain size, density, spray, stereo width and pitch jitter.",
+        "Eight-voice polyphony, two Motion generators and a modulation matrix with up to 16 routes keep your textures moving.",
+        "Two multimode filters, an equal-power blend between the sources and a built-in reverb shape the space. An updated 26-page manual is included."
+      ],
+      "tags": [
+        "Plugin",
+        "Granular",
+        "AU",
+        "VST3"
+      ]
+    }
+  ]
+}

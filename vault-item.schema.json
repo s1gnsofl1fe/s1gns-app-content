@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/vault-item.schema.json",
+  "title": "S1gns Of L1fe app — Vault item",
+  "description": "One piece of free bonus content shown in the app's Bonus Vault. Publish a list of these under the \"vault\" key of content.json.",
+  "type": "object",
+  "required": ["id", "title", "kind"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique, permanent identifier. Lowercase letters, numbers and dashes. Never change it once published — saved items and NEW badges are tied to it.",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "examples": ["ambient-drone-starter-pack"]
+    },
+    "title": { "type": "string", "minLength": 1, "maxLength": 80, "examples": ["Ambient Drone Starter Pack"] },
+    "subtitle": { "type": "string", "maxLength": 120, "examples": ["Five 24-bit drones from the modular"] },
+    "kind": {
+      "type": "string",
+      "enum": ["youtube", "video", "audio", "article", "download", "pdf", "link", "gallery"],
+      "description": "Decides how the item looks and what its main button does."
+    },
+    "category": {
+      "type": "string",
+      "description": "Filter chip the item appears under (e.g. Tutorials, Sample Packs, Presets, Articles). Items without a category are grouped by kind.",
+      "examples": ["Sample Packs"]
+    },
+    "summary": { "type": "string", "description": "One or two sentences shown under the title and in search." },
+    "body": {
+      "type": "array",
+      "description": "Long-form text, one string per paragraph. Supports **bold**, *italic* and [links](https://...).",
+      "items": { "type": "string" }
+    },
+    "mediaURL": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "description": "The main file or page. video: .mp4/.m3u8/.mov file or a YouTube/Vimeo/Wistia page. audio: .mp3/.m4a/.wav file. pdf: .pdf file. download/link: the page to open. article: the original post (optional)."
+    },
+    "youtubeId": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]{11}$",
+      "description": "11-character YouTube video id. Required for kind youtube; on other kinds it adds a 'companion tutorial' player."
+    },
+    "thumbnail": {
+      "type": "string",
+      "description": "Cover image — a full https:// URL (or an image name bundled in the app). YouTube items use the video thumbnail automatically.",
+      "examples": ["https://images.squarespace-cdn.com/.../AmbientDroneSamplePack.jpg?format=750w"]
+    },
+    "images": {
+      "type": "array",
+      "description": "Image URLs for kind gallery (the first one is also used as the cover if there is no thumbnail).",
+      "items": { "type": "string", "pattern": "^https://" }
+    },
+    "attachments": {
+      "type": "array",
+      "description": "Extra files or links listed under 'Included'. PDF links open in the in-app reader.",
+      "items": {
+        "type": "object",
+        "required": ["title", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "title": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+          "kind": { "type": "string", "description": "Short label, e.g. \"Vital presets\", \"PDF\", \"WAV samples\".", "examples": ["8 Vital presets"] },
+          "size": { "type": "string", "description": "Human-readable size or note, e.g. \"48 MB\".", "examples": ["48 MB"] }
+        }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" }, "description": "Shown as chips and used by search." },
+    "publishedAt": {
+      "type": "string",
+      "pattern": "^\\d{4}(-\\d{2}(-\\d{2}(T[0-9:.+\\-Z]+)?)?)?$",
+      "description": "Date the item was released: YYYY-MM-DD (or YYYY-MM / YYYY / full ISO-8601). Newest items appear first; items from the last 6 months get a NEW badge until opened.",
+      "examples": ["2026-09-25"]
+    },
+    "duration": { "type": "string", "pattern": "^(\\d+:)?\\d{1,2}:\\d{2}$", "description": "Running time for video/audio, e.g. \"23:21\" or \"1:05:00\"." },
+    "featured": { "type": "boolean", "default": false, "description": "true puts the item in the big 'Featured drops' carousel at the top of the Vault." }
+  },
+  "allOf": [
+    { "if": { "properties": { "kind": { "const": "youtube" } } }, "then": { "required": ["youtubeId"] } },
+    { "if": { "properties": { "kind": { "enum": ["audio", "pdf", "link"] } } }, "then": { "required": ["mediaURL"] } },
+    { "if": { "properties": { "kind": { "const": "download" } } }, "then": { "anyOf": [ { "required": ["mediaURL"] }, { "required": ["attachments"] } ] } },
+    { "if": { "properties": { "kind": { "const": "video" } } }, "then": { "anyOf": [ { "required": ["mediaURL"] }, { "required": ["youtubeId"] } ] } },
+    { "if": { "properties": { "kind": { "const": "gallery" } } }, "then": { "required": ["images"] } }
+  ]
+}
