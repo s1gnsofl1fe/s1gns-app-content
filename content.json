@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-09-25",
   "announcements": [
     {
@@ -9,6 +9,2223 @@
       "url": "https://s1gnsofl1fe.gumroad.com/l/texture-loom",
       "cta": "Get it free",
       "expires": "2026-12-31"
+    }
+  ],
+  "artist": {
+    "name": "S1gns Of L1fe",
+    "realName": "Chris Bryant",
+    "tagline": "Ambient composer, sound designer and co-founder of Synphaera Records",
+    "location": "San Francisco Bay Area, California",
+    "roles": [
+      "Ambient composer & producer",
+      "Sound designer",
+      "Co-founder of Synphaera, Exosphere, Material, Assemblage & Aura",
+      "One half of Ascendant (with Don Tyler)",
+      "Solo projects: S1gns Of L1fe and Starterra",
+      "Educator, YouTube creator & mentor",
+      "Host of the Harmonic Horizons podcast",
+      "Plugin & instrument developer",
+      "Music director, SomaFM's Synphaera Radio (with Don Tyler)",
+      "Guitar teacher for almost 19 years"
+    ],
+    "shortBio": "Chris Bryant is a Bay Area ambient composer and sound designer who records as S1gns Of L1fe and Starterra, is one half of Ascendant, and co-founded Synphaera Records. A lifelong guitarist who taught for almost 19 years, he has devoted himself to ambient music since 2012, and today he teaches it to a global community and builds his own instruments.",
+    "longBio": [
+      "Chris Bryant grew up in the San Francisco Bay Area. At nine he bought his first heavy metal tape, Iron Maiden's Seventh Son of a Seventh Son, and when \"Moonchild\" came through his sister's silver boombox his life changed. He formed his first band at 11 or 12 and played in bands all through high school, while a friend down the hall kept playing The Orb and The Future Sound of London, music that seemed almost alien to him.",
+      "A road trip through Idaho's Sawtooth Mountains, with Dave Matthews and Tim Reynolds playing acoustic guitars on the stereo, sent him on a long guitar quest. He made his living as a guitar teacher for almost 19 years, running his own studio and helping students go on to schools like Berklee, USC and NYU.",
+      "In 2012 a chance conversation about the music of Solar Fields hit like a lightning bolt. With a computer and a copy of Reason he started from zero, and within months his track Metamorphosis was drawing encouragement on KVR and SoundCloud. He called the project S1gns Of L1fe, with two 1s for Highway 101, the road that carves up California to the redwoods, and for the ones and zeros of binary code. His debut, Language of The Ancients, followed in 2013.",
+      "Grammy-nominated mastering engineer Don Tyler heard the music and reached out, and their first five songs together became Ascendant's New Land EP in 2014. When the label they most wanted to join turned down their album, they started their own. Synphaera Records, its name borrowed with Klaus Schulze's blessing, grew into a family: the cinematic Exosphere, the Material sound design wing, the community label Assemblage and Aura, their monthly subscription portal on Bandcamp. His music has aired on Hearts of Space, Echoes, SomaFM and Star's End.",
+      "When the world locked down in 2020, Chris called it his make-or-break moment. He committed to truly learning sound design, building every patch from scratch, and he made his first Starterra album, Celestial. Both paid off: Material became a home for his soundsets, and Starterra became his most experimental voice. His solo albums, from Pathways to Ascension to Portal to Transcendence (2024), explore vibration, consciousness and the cosmos.",
+      "For the first 11 years of his ambient career he still taught guitar full time to support his family. In 2023 he finally stepped away to put everything into music, his labels, YouTube, his Patreon community, one-to-one coaching and, more recently, his own plugins. He believes the strongest intuitive voice is often the quietest, that energy is the real currency of human work, and that the best way to keep music alive is to support artists directly."
+    ],
+    "heroImage": "story-hero",
+    "portraitImage": "story-portrait"
+  },
+  "stats": [
+    {
+      "value": "2012",
+      "label": "Devoted to ambient music since",
+      "source": {
+        "name": "S1gns Of L1fe on Patreon (About)",
+        "url": "https://www.patreon.com/s1gnsofl1fe/about"
+      }
+    },
+    {
+      "value": "2015",
+      "label": "Co-founded Synphaera Records",
+      "source": {
+        "name": "Synphaera",
+        "url": "https://www.synphaera.com/"
+      }
+    },
+    {
+      "value": "5",
+      "label": "Labels & imprints co-founded"
+    },
+    {
+      "value": "~19 yrs",
+      "label": "Teaching guitar before going all in"
+    },
+    {
+      "value": "44.2K",
+      "label": "YouTube subscribers (Sept 2026)",
+      "source": {
+        "name": "S1gns Of L1fe on YouTube",
+        "url": "https://www.youtube.com/@s1gns0fl1fe"
+      }
+    },
+    {
+      "value": "4M+",
+      "label": "YouTube views (4,081,554 as of Sept 2026)",
+      "source": {
+        "name": "S1gns Of L1fe on YouTube",
+        "url": "https://www.youtube.com/@s1gns0fl1fe"
+      }
+    },
+    {
+      "value": "490+",
+      "label": "YouTube videos (491 as of Sept 2026)",
+      "source": {
+        "name": "S1gns Of L1fe on YouTube",
+        "url": "https://www.youtube.com/@s1gns0fl1fe"
+      }
+    },
+    {
+      "value": "4.9★",
+      "label": "Plugin rating from 692 verified reviews",
+      "source": {
+        "name": "s1gnsofl1fe.com: Explore",
+        "url": "https://www.s1gnsofl1fe.com/explore"
+      }
+    },
+    {
+      "value": "2",
+      "label": "Hearts of Space program features (2022, 2023)",
+      "source": {
+        "name": "s1gnsofl1fe.com: Awards, Radio, Press & Live",
+        "url": "https://www.s1gnsofl1fe.com/awards"
+      }
+    },
+    {
+      "value": "T-2nd",
+      "label": "Ambient Album, Schallwelle Preis 2024",
+      "source": {
+        "name": "Schallwelle Preis 2024 winners",
+        "url": "https://schallwelle-preis.de/gewinner/gewinner-2024/"
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1990s",
+      "title": "Moonchild, then ambient",
+      "detail": "At nine, Chris buys his first metal tape, Iron Maiden's Seventh Son of a Seventh Son. He plays in bands from age 11 through high school, while a friend introduces him to The Orb and The Future Sound of London.",
+      "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+    },
+    {
+      "year": "2000s",
+      "title": "A life in guitar",
+      "detail": "A drive through Idaho's Sawtooth Mountains with Dave Matthews and Tim Reynolds on the stereo starts a long guitar quest. Chris makes his living as a guitar teacher.",
+      "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+    },
+    {
+      "year": "2009",
+      "title": "Chris Bryant Guitar School opens",
+      "detail": "Chris runs a guitar school in Los Gatos, California, part of a guitar-teaching career that lasts almost 19 years.",
+      "url": "https://www.chatterblock.com/resources/4890/chris-bryant-guitar-school-los-gatos-ca/",
+      "confidence": "medium"
+    },
+    {
+      "year": "2012",
+      "title": "The lightning bolt",
+      "detail": "A conversation about Solar Fields changes everything. Within months his first track, Metamorphosis, is drawing encouragement on KVR and SoundCloud. He names the project S1gns Of L1fe, for Highway 101 and binary code, and meets Don Tyler.",
+      "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+    },
+    {
+      "year": "2013",
+      "title": "Debut album: Language of The Ancients",
+      "detail": "The first S1gns Of L1fe album comes out on January 23, 2013. It is inspired by biology, astronomy and the harmony of existence.",
+      "url": "https://s1gnsofl1fe.bandcamp.com/album/language-of-the-ancients"
+    },
+    {
+      "year": "2013",
+      "title": "Branches in the Sky",
+      "detail": "A 40-minute, five-track follow-up EP recorded in spring 2013. It is his debut on Spain's Arecibo Records.",
+      "url": "https://s1gnsofl1fe.bandcamp.com/album/branches-in-the-sky"
+    },
+    {
+      "year": "2013",
+      "title": "Building Ambient Online",
+      "detail": "Chris runs the ambientonline.org forum and hosts the Ambient Online Podcast. He is credited as producer on Ambient Online Compilation Vol. 1.",
+      "url": "https://s1gnsofl1fe.tumblr.com/"
+    },
+    {
+      "year": "2014",
+      "title": "Ascendant is born",
+      "detail": "After hearing S1gns Of L1fe, Don Tyler reaches out. Their first five songs become Ascendant's debut EP, New Land (February), followed by Source Transmission in April.",
+      "url": "https://ambientascendant.bandcamp.com/album/source-transmission"
+    },
+    {
+      "year": "2014",
+      "title": "Ascendant in Helsinki",
+      "detail": "Ascendant travels from California to appear at the Ambient Music Conference in Helsinki, Finland (June 27–28).",
+      "url": "https://www.s1gnsofl1fe.com/awards",
+      "confidence": "medium"
+    },
+    {
+      "year": "2014",
+      "title": "A \"no\" that started a label",
+      "detail": "After waiting two and a half months, the best-known label in the genre passes on Ascendant's album. Chris and Don decide to do it themselves.",
+      "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+    },
+    {
+      "year": "2015",
+      "title": "Synphaera Records launches",
+      "detail": "After a label they admired turned them down, Chris and Don start their own. Synphaera launches with Ascendant's Æthereal Code (SYN01) on July 21, 2015.",
+      "url": "https://synphaera.bandcamp.com/album/thereal-code"
+    },
+    {
+      "year": "2016",
+      "title": "Meridian and Starseed",
+      "detail": "Ascendant's Meridian (June 2016) trades beat-driven anthems for sequenced, drifting ambient. That August the label's first various-artists compilation, Starseed, arrives.",
+      "url": "https://synphaera.bandcamp.com/album/meridian"
+    },
+    {
+      "year": "2016",
+      "title": "Producing live on Twitch",
+      "detail": "Chris streams ambient and downtempo production sessions in Ableton Live on Twitch every weekday morning.",
+      "url": "https://s1gnsofl1fe.blogspot.com/"
+    },
+    {
+      "year": "2017",
+      "title": "Pathways to Ascension",
+      "detail": "His first solo album on Synphaera (January 24, 2017) is built on the idea that everything in the universe is vibration.",
+      "url": "https://synphaera.bandcamp.com/album/pathways-to-ascension"
+    },
+    {
+      "year": "2017",
+      "title": "The idea for Exosphere",
+      "detail": "While walking through San Francisco waiting to perform at a street festival, Don pitches a darker, cinematic imprint. Chris agrees on the spot.",
+      "url": "https://www.ambientvisions.com/synphaera.htm"
+    },
+    {
+      "year": "2017",
+      "title": "The Source Trilogy concludes",
+      "detail": "Ascendant's Particle Horizon (November 7, 2017) completes the trilogy begun with Source Transmission and Æthereal Code.",
+      "url": "https://synphaera.bandcamp.com/album/particle-horizon"
+    },
+    {
+      "year": "2018",
+      "title": "Exosphere launches",
+      "detail": "Synphaera's imprint for dark ambient, drone and deep cinematic space music releases its first titles.",
+      "url": "https://exospheremusic.bandcamp.com/"
+    },
+    {
+      "year": "2019",
+      "title": "The S1gns Of L1fe hub goes live",
+      "detail": "Chris launches s1gnsofl1fe.com with a rebrand, a blog, services, coaching bookings and merch.",
+      "url": "https://www.s1gnsofl1fe.com/s1gnsblog"
+    },
+    {
+      "year": "2020",
+      "title": "The make-or-break year",
+      "detail": "In lockdown, Chris commits to mastering sound design and makes his first Starterra album, Celestial (October 20, Exosphere). Material by Synphaera starts releasing soundsets.",
+      "url": "https://exospheremusic.bandcamp.com/album/celestial"
+    },
+    {
+      "year": "2021",
+      "title": "The Age of Cymatics",
+      "detail": "S1gns Of L1fe returns on January 26, 2021. Weeks later Star's End plays \"Dimensional Shift\".",
+      "url": "https://synphaera.bandcamp.com/album/the-age-of-cymatics"
+    },
+    {
+      "year": "2021",
+      "title": "All in on YouTube",
+      "detail": "Chris commits to his YouTube channel and a Patreon community that gets a new post every other day.",
+      "url": "https://www.youtube.com/channel/UCy_SvUn5yh4VEWv8J5sWCqg"
+    },
+    {
+      "year": "2022",
+      "title": "Hearts of Space: Wintertronic 3",
+      "detail": "Program 1332 (December 9, 2022) features \"Astral Plane\" from Pathways to Ascension.",
+      "url": "https://v4.hos.com/programs/details/1332"
+    },
+    {
+      "year": "2023",
+      "title": "Going all in",
+      "detail": "After almost 19 years teaching guitar, including 11 years alongside his ambient career, Chris steps away to focus on music, his labels, coaching and YouTube.",
+      "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+    },
+    {
+      "year": "2023",
+      "title": "Hearts of Space: Star Tracer",
+      "detail": "Program 1340 (March 17, 2023) features the title track of The Age of Cymatics.",
+      "url": "https://v4.hos.com/programs/details/1340"
+    },
+    {
+      "year": "2023",
+      "title": "Aura opens",
+      "detail": "Chris and Don launch Aura, an exclusive subscription portal for archival, remastered and new music from Ascendant, S1gns Of L1fe, Starterra and more.",
+      "url": "https://auraexclusive.bandcamp.com/",
+      "confidence": "medium"
+    },
+    {
+      "year": "2024",
+      "title": "Made in Ableton Live",
+      "detail": "Ableton features Chris building \"Particle Acceleration\" from a single sample in its Made in Ableton Live video series (February 2024).",
+      "url": "https://www.ableton.com/en/blog/made-in-ableton-live-s1gns-of-l1fe/"
+    },
+    {
+      "year": "2024",
+      "title": "Astral Ascendant and Starfall",
+      "detail": "Ascendant releases two companion albums. Cyclical Dreams Magazine later names Starfall its album of the year for 2024.",
+      "url": "https://synphaera.bandcamp.com/album/starfall"
+    },
+    {
+      "year": "2024",
+      "title": "Portal to Transcendence",
+      "detail": "His third solo album on Synphaera arrives on May 21, 2024. It is his first since starting his YouTube channel and Patreon community.",
+      "url": "https://synphaera.bandcamp.com/album/portal-to-transcendence"
+    },
+    {
+      "year": "2024",
+      "title": "Schallwelle Preis recognition",
+      "detail": "At Germany's Schallwelle awards, Portal to Transcendence ties for 2nd place for Ambient Album. Ascendant and Starterra also place in the Ambient Album category.",
+      "url": "https://schallwelle-preis.de/gewinner/gewinner-2024/"
+    },
+    {
+      "year": "2024",
+      "title": "Two weeks in Japan",
+      "detail": "A long-held dream. His field recordings become the free Sounds of Japan pack.",
+      "url": "https://www.s1gnsofl1fe.com/merch/p/4yrud45zk7sf8unf4ky71apnnqw4hp"
+    },
+    {
+      "year": "2025",
+      "title": "Performance Series begins",
+      "detail": "Chris starts an ongoing series of recorded live performances across S1gns Of L1fe and Starterra.",
+      "url": "https://www.youtube.com/watch?v=_s_qI7bkmbo"
+    },
+    {
+      "year": "2025",
+      "title": "Black Ocean in Wuppertal",
+      "detail": "In March 2025, Chris and Martin Stürtzer record a 35-minute space ambient live set on Martin's hardware synths in Germany.",
+      "url": "https://phelios.bandcamp.com/album/black-ocean-2"
+    },
+    {
+      "year": "2025",
+      "title": "Memory of Light",
+      "detail": "The Starterra album is ranked #70 in Cyclical Dreams Magazine's 200 Best Albums of 2025.",
+      "url": "https://www.s1gnsofl1fe.com/awards"
+    },
+    {
+      "year": "2026",
+      "title": "Instrument maker",
+      "detail": "Chris releases a growing set of his own instruments. They include the free Texture Loom (June), the Stellarizer MIDI sequencer (July) and the TRANQUILITY synthesizer.",
+      "url": "https://www.s1gnsofl1fe.com/s1gns-of-l1fe-plugins"
+    },
+    {
+      "year": "2026",
+      "title": "Regenesis",
+      "detail": "Ascendant's new album (June 2, 2026) continues the shift toward Berlin School sequencing and hardware and modular production.",
+      "url": "https://synphaera.bandcamp.com/album/regenesis"
+    }
+  ],
+  "stories": [
+    {
+      "id": "the-name",
+      "title": "Two Ones: The Name S1gns Of L1fe",
+      "subtitle": "Highway 101, binary code and a new beginning",
+      "category": "Origin",
+      "body": [
+        "Why the 1s? When Chris chose the name in 2012, he swapped the i's in Signs and Life for ones. Read them together and you get 101.",
+        "In California, 101 is a highway. It carves its way up the state, along the coast to the redwood forests, home to some of the largest and oldest trees in the world.",
+        "101 is also the language of machines: the ones and zeros of binary code, the digital world where his music is born.",
+        "\"That name really stuck with me and I just gravitated towards it,\" he says. \"That's when S1gns Of L1fe was born.\" A road through ancient forests and a line of code. It is a fitting name for music that joins the natural and the electronic."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        }
+      ],
+      "image": "logo-mark"
+    },
+    {
+      "id": "from-guitar-to-ambient",
+      "title": "Moonchild: From Metal to Guitar Teacher",
+      "subtitle": "The road that led to ambient",
+      "category": "Origin",
+      "body": [
+        "Chris was nine when he bought his first heavy metal tape: Iron Maiden's Seventh Son of a Seventh Son. His sister, a Grateful Dead and Bob Marley fan, looked at it and asked if he was sure. He was. She put it in their silver boombox, the opening track \"Moonchild\" began, and his life changed.",
+        "He formed his first band at 11 or 12 and played in bands all through high school. On days when he wasn't at metal shows, a friend was always playing The Orb and The Future Sound of London. Chris couldn't imagine how that music was even made. It sounded alien, and it stayed with him.",
+        "Then, on a drive through Idaho's Sawtooth Mountains, a friend put on Dave Matthews and Tim Reynolds playing acoustic guitars together. \"I've never heard music like that before,\" he remembers. It sent him on a guitar quest that became a career.",
+        "For almost 19 years Chris made his living teaching guitar, eventually from his own studio in the Bay Area. Some of his students went on to Berklee, USC and NYU. Even after ambient music took over his life in 2012, he kept teaching full time to support his family, until 2023, when he stepped away to go all in."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        },
+        {
+          "name": "ChatterBlock: Chris Bryant Guitar School, Los Gatos",
+          "url": "https://www.chatterblock.com/resources/4890/chris-bryant-guitar-school-los-gatos-ca/"
+        }
+      ],
+      "image": "story-guitar-to-ambient"
+    },
+    {
+      "id": "the-lightning-bolt",
+      "title": "The Lightning Bolt",
+      "subtitle": "2012: the conversation that changed everything",
+      "category": "Origin",
+      "body": [
+        "By 2012 Chris felt he was waiting for something, \"waiting for divine inspiration,\" as he puts it. He had tried producing upbeat electronic music in the early 2000s and let it go, but the idea never left the back of his mind.",
+        "Then, in a random conversation, a friend asked whether he had heard the music of Solar Fields. That was the moment. \"All of a sudden I knew what I had to do,\" he says. He stopped everything and walked a new path.",
+        "He started with just a computer, a license for Reason and an old copy of Digital Performer. The first experiments were, in his words, really awful. But the learning came fast, and within two or three months he posted a track called Metamorphosis on KVR and SoundCloud. The response was encouraging: \"I might have something here.\"",
+        "SoundCloud in 2011 to 2013 was a real social network for music: free, ad-free and full of producers lifting each other up. Chris shared every track but one from his debut there before it came out. Language of The Ancients was released in January 2013."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        }
+      ],
+      "image": "about-image-1"
+    },
+    {
+      "id": "first-signals",
+      "image": "story-first-signals",
+      "title": "First Signals",
+      "subtitle": "Language of The Ancients and the Ambient Online years",
+      "category": "Origin",
+      "body": [
+        "The first S1gns Of L1fe album, Language of The Ancients, came out in January 2013 after almost every track had already been shared on SoundCloud. Chris wrote that it was inspired by biology, astronomy and the quiet harmony running through all existence.",
+        "Months later came Branches in the Sky, a 40-minute EP recorded in spring 2013. It continued the story and marked his debut on Arecibo Records, a young ambient label in Spain.",
+        "Chris was also building community. He ran the Ambient Online forum and hosted the Ambient Online Podcast, which showcased members' drones and soundscapes. Its long-running compilation series helped keep the site alive.",
+        "Even then, the signature was clear: hypnotic drones, pulsing rhythms and a fascination with where we come from."
+      ],
+      "sources": [
+        {
+          "name": "Language of The Ancients (Bandcamp)",
+          "url": "https://s1gnsofl1fe.bandcamp.com/album/language-of-the-ancients"
+        },
+        {
+          "name": "Branches in the Sky (Bandcamp)",
+          "url": "https://s1gnsofl1fe.bandcamp.com/album/branches-in-the-sky"
+        },
+        {
+          "name": "S1gns Of L1fe on Tumblr",
+          "url": "https://s1gnsofl1fe.tumblr.com/"
+        },
+        {
+          "name": "Ambient Online Podcast (Bandcamp)",
+          "url": "https://ambientonlinepodcast.bandcamp.com/"
+        },
+        {
+          "name": "Discogs: S1gns Of L1fe",
+          "url": "https://www.discogs.com/artist/3222962-S1gns-Of-L1fe"
+        }
+      ]
+    },
+    {
+      "id": "two-worlds-ascendant",
+      "title": "Two Worlds Collide: Ascendant",
+      "subtitle": "A friendship built over Dropbox",
+      "category": "Origin",
+      "body": [
+        "Don Tyler heard S1gns Of L1fe and sent Chris a message: he was a producer in Los Angeles with some tracks lying around, and maybe they could collaborate. Don turned out to be a Grammy-nominated mastering engineer with a deep love of synthesis. Chris had never collaborated before, but he said yes. Their first five songs became Ascendant's New Land EP in 2014.",
+        "The name has meaning. Your ascendant is the zodiac sign rising in the east when you are born: the face you show the world and the lens you see it through. Ascendant also has a deep lore of worlds and stories, with every album placed on a timeline. Astral Ascendant and Starfall (2024) go back before New Land.",
+        "The two have met in person only three or four times. For more than a decade they have passed sessions back and forth from the Bay Area to LA. When Don settled on Logic Pro, Chris learned it too, so they could finally share the same sessions. When Don heard the first Astral Ascendant sketch he wrote back that it was \"the stuff that the gods forged.\"",
+        "Their styles clash, in the right way. \"When those two things come together,\" Chris says, \"magic happens.\" Radio agreed early on: Hearts of Space, Echoes, SomaFM and Star's End have all played Ascendant."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        },
+        {
+          "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+          "url": "https://www.ambientvisions.com/synphaera.htm"
+        }
+      ],
+      "image": "story-ascendant"
+    },
+    {
+      "id": "rejection-to-synphaera",
+      "title": "Collaboration in the Sky",
+      "subtitle": "How a \"no\" became Synphaera Records",
+      "category": "Label",
+      "body": [
+        "In 2014 Chris and Don submitted an album to the best-known label in their genre. They waited two and a half months. The answer came back kind but final: it broke the label's heart, but they couldn't take it. \"We were crushed,\" Chris says.",
+        "So they decided to do it their way, which meant doing it themselves. They knew the pitfalls going in and went in unafraid of the work. Synphaera Records launched in 2015 with Ascendant's Æthereal Code.",
+        "The name comes from Klaus Schulze's 1973 double album Cyborg, where the word appears with an umlaut. \"Syn\" means together and \"phaera\" means atmosphere, so they read it as \"collaboration in the sky\", perfect for music about space and air. They asked Schulze's office for permission. He said yes, on one condition: spell it correctly. No umlaut, because it wouldn't translate on the web. Use \"ae\".",
+        "The family grew from there: Exosphere for deep cinematic space music, Material for sound design, Assemblage as a community label, and Aura for exclusive monthly releases. The standard never changed. Chris sees a label as \"the last front line\" before the uncurated noise, so listeners can trust a record before they even press play."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        },
+        {
+          "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+          "url": "https://www.ambientvisions.com/synphaera.htm"
+        }
+      ],
+      "image": "story-synphaera"
+    },
+    {
+      "id": "planetary-imprints",
+      "image": "story-imprints",
+      "title": "A Solar System of Labels",
+      "subtitle": "Exosphere, Material, Aura and beyond",
+      "category": "Label",
+      "body": [
+        "In 2017, walking the streets of San Francisco while waiting to perform at a street festival, Don pitched a new imprint to Chris. He already had a name: Exosphere. Chris loved it instantly.",
+        "The spark was an album by Martin Stürtzer that was too dark for Synphaera. Don couldn't stop listening to it. Exosphere launched in 2018 as a home for drone, dark ambient and deep cinematic space music.",
+        "Chris maps the labels onto the solar system. Synphaera is the core sound, the inner planets from the Sun to Mars, while Exosphere lives beyond the asteroid belt, where light meets darkness.",
+        "The family kept growing: Material in 2020 for soundsets and production tools, Aura as an exclusive portal to their own music, and newer imprints for modular music (Assemblage) and community releases (Pénte)."
+      ],
+      "sources": [
+        {
+          "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+          "url": "https://www.ambientvisions.com/synphaera.htm"
+        },
+        {
+          "name": "Synphaera",
+          "url": "https://www.synphaera.com/"
+        },
+        {
+          "name": "Exosphere on Bandcamp",
+          "url": "https://exospheremusic.bandcamp.com/"
+        },
+        {
+          "name": "Material on Bandcamp",
+          "url": "https://material.bandcamp.com/"
+        },
+        {
+          "name": "Aura on Bandcamp",
+          "url": "https://auraexclusive.bandcamp.com/"
+        }
+      ]
+    },
+    {
+      "id": "make-or-break-2020",
+      "title": "2020: The Make-or-Break Year",
+      "subtitle": "Sound design, Starterra and the birth of Material",
+      "category": "Craft",
+      "body": [
+        "When the world locked down in 2020, everyone turned inward. Chris asked himself what he really wanted to do. \"This is my make-or-break moment,\" he decided, and he made two commitments.",
+        "The first was to truly become a sound designer. He had always shaped sounds, but he wanted the real language of synthesis. So he forced himself to build every patch from scratch, dissect other people's patches, read the books and ask friends for help.",
+        "The second was a record. Exosphere had existed for a couple of years, but Chris had never made an album for it. That became Celestial, the first Starterra album, released in October 2020.",
+        "Both paid off for years to come. The sound design grew into Material, the Synphaera family's sound design wing, where he has released soundsets and preset packs. The same skills now power his tutorials, his mentorship and the instruments he builds."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        }
+      ],
+      "image": "label-material-image"
+    },
+    {
+      "id": "three-lenses",
+      "title": "Three Projects, Three Lenses",
+      "subtitle": "How Chris keeps Ascendant, S1gns Of L1fe and Starterra distinct",
+      "category": "Craft",
+      "body": [
+        "Chris juggles a lot: three main projects, labels, YouTube, Patreon and a podcast. The way he keeps his music distinct is by treating each project as its own mindset and method.",
+        "Ascendant has a fixed palette. He works with a specific set of synths and tools, the ones he knows give results, and limits himself to them, because that is what Ascendant is.",
+        "With S1gns Of L1fe he widens the aperture. More tools and more colors are allowed, but it still has to sound like S1gns Of L1fe.",
+        "Starterra is where he lets it all go. At a slow 70 to 75 BPM, sounds can come from anywhere. It is his most experimental project, and just as important to him, even if some S1gns Of L1fe listeners haven't found it yet."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        }
+      ],
+      "image": "release-celestial"
+    },
+    {
+      "id": "portal-with-the-community",
+      "title": "An Album Made With Its Listeners",
+      "subtitle": "Portal to Transcendence and twelve years around the cosmos",
+      "category": "Craft",
+      "body": [
+        "Chris posts something on Patreon every other day: videos, presets, packs and starter tracks, often built live across multi-part series. Over time a big folder of those pieces grew.",
+        "When he senses a S1gns Of L1fe album coming, it's a profound moment. \"This is my front-facing identity,\" he says. So he went through the folder and picked the best of the best.",
+        "Because many of those songs had been made live in front of his community, the album felt interactive. \"People had helped me make this album,\" he says. All that energy flowed into one nexus point, which became the name of one of the tracks.",
+        "Listening to the final mix of Portal to Transcendence next to one of his early albums, the difference was night and day. Twelve years is one full cycle of the Chinese zodiac, dragon to dragon. \"It's been quite the trip around the cosmos.\""
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        }
+      ],
+      "image": "release-portal-to-transcendence"
+    },
+    {
+      "id": "ikigai-japan",
+      "title": "Ikigai: Recording Japan",
+      "subtitle": "Two weeks, a field recorder and an open heart",
+      "category": "Journeys",
+      "body": [
+        "Japan had been a lifelong dream for Chris. Before he ever went, he felt a strong pull toward it, and his wife is half Japanese, so the trip also meant family roots. They spent about two weeks there. \"I think everybody who goes there leaves changed,\" he says.",
+        "What stayed with him most was the people. Train staff, taxi drivers and hotel workers were kind and took real pride in their work. He connected it to ikigai, the Japanese idea of purpose and a way of living, and found it deeply inspiring.",
+        "He went with a field recorder, his iPhone and an open mind, to capture the essence of the place, from futuristic Tokyo to quieter moments in between.",
+        "Those recordings became The Sounds of Japan, a free field recording pack you'll find in the Bonus Vault."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        }
+      ],
+      "image": "free-sounds-of-japan"
+    },
+    {
+      "id": "meridian-turning-point",
+      "image": "story-meridian",
+      "title": "Meridian: Leaving the Beat Behind",
+      "subtitle": "The album that changed Ascendant, and a studio that keeps evolving",
+      "category": "Craft",
+      "body": [
+        "Ascendant's first two albums were full of beat-driven anthems. With Meridian (2016), they replaced much of that with heavily sequenced, drifting ambient. It was new territory, and the album wasn't easy to make.",
+        "Fans welcomed the change. For Chris, that response was the moment he knew the vision behind Synphaera could go far beyond one project.",
+        "The duo's tools changed over time too. Ascendant began entirely in software, and by the 2024 twin albums Astral Ascendant and Starfall they were about half hardware. Today they work almost entirely in hardware and modular.",
+        "The process begins with story. Tracks often start as emails about Ascendant's deep lore. Then comes sound design, and arrangement and mixing come last."
+      ],
+      "sources": [
+        {
+          "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+          "url": "https://www.ambientvisions.com/synphaera.htm"
+        },
+        {
+          "name": "Meridian (Bandcamp)",
+          "url": "https://synphaera.bandcamp.com/album/meridian"
+        },
+        {
+          "name": "Starfall (Bandcamp)",
+          "url": "https://synphaera.bandcamp.com/album/starfall"
+        },
+        {
+          "name": "Regenesis (Bandcamp)",
+          "url": "https://synphaera.bandcamp.com/album/regenesis"
+        }
+      ]
+    },
+    {
+      "id": "vibration-and-consciousness",
+      "image": "story-vibration",
+      "title": "Everything Is Vibration",
+      "subtitle": "The ideas behind the solo albums",
+      "category": "Philosophy",
+      "body": [
+        "Chris's solo albums read like chapters of one cosmic story. Pathways to Ascension (2017) begins from the idea that everything in the universe is vibration, and that we are all rising toward a higher frequency.",
+        "The Age of Cymatics (2021) takes its name from the study of how sound shapes matter. Its tracks imagine sound waves awakening genetic memory and drawing listeners into one shared consciousness.",
+        "Portal to Transcendence (2024) is the next step: passing through the portal into a new age. It invites the listener into a world where time and space dissolve.",
+        "For Chris, space music is about both outer space and the imagined space within. Astrology and the cycles of the solar system are a steady source of direction, and many listeners use the music for meditation, focus and spiritual practice."
+      ],
+      "sources": [
+        {
+          "name": "Pathways to Ascension (Bandcamp)",
+          "url": "https://synphaera.bandcamp.com/album/pathways-to-ascension"
+        },
+        {
+          "name": "The Age of Cymatics (Bandcamp)",
+          "url": "https://synphaera.bandcamp.com/album/the-age-of-cymatics"
+        },
+        {
+          "name": "Portal to Transcendence (Bandcamp)",
+          "url": "https://synphaera.bandcamp.com/album/portal-to-transcendence"
+        },
+        {
+          "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+          "url": "https://www.ambientvisions.com/synphaera.htm"
+        }
+      ]
+    },
+    {
+      "id": "the-creative-void",
+      "image": "story-void",
+      "title": "Tapping Into the Void",
+      "subtitle": "Intuition, flow and the quietest voice",
+      "category": "Philosophy",
+      "body": [
+        "Chris believes every artist knows \"the void\", the endless well that all creativity comes from. It is free and always open, day or night.",
+        "He is intuitive by nature, and he does his best work when he is uninhibited and flowing, not worrying what anyone thinks. When he stops to overthink, he stumbles. \"The intuitive voice that's the strongest,\" he says, \"is often the quietest.\" You have to listen hard for that first voice.",
+        "He tunes in through meditation, exercise and treating his body right, along with practical habits: set goals and track them, and learn your tools until they disappear. One exercise he suggests is to loop a single element, sit with it for a minute, and ask your intuition what comes next.",
+        "Underneath it all is a belief that music is a universal language, and that what we create from a heart-centered place ripples out to everyone around us."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        },
+        {
+          "name": "S1gns Blog: The Intuitive Aspect of Music Production",
+          "url": "https://www.s1gnsofl1fe.com/s1gnsblog/the-intuitive-aspect-of-music-production"
+        },
+        {
+          "name": "S1gns Blog: 3 Habits of Successful Producers",
+          "url": "https://www.s1gnsofl1fe.com/s1gnsblog/3-habits-of-successful-producers"
+        },
+        {
+          "name": "S1gns Blog: The Unlimited Power of Music Production",
+          "url": "https://www.s1gnsofl1fe.com/s1gnsblog/the-unlimited-power-of-music-production"
+        },
+        {
+          "name": "S1gns Blog: Time to Move Forward",
+          "url": "https://www.s1gnsofl1fe.com/s1gnsblog/time-to-move-forward"
+        }
+      ]
+    },
+    {
+      "id": "energy-is-currency",
+      "title": "Energy Is the Real Currency",
+      "subtitle": "Aura, Bandcamp and the value of human-made music",
+      "category": "Philosophy",
+      "body": [
+        "Chris and Don started Aura as an exclusive, subscription-based label on Bandcamp. Subscribers get each new monthly release and everything before it: unreleased Ascendant, Starterra, Remote Vision, Phase47 and more. None of it is on streaming services.",
+        "It's a response to how music was devalued. A stream might pay an artist a tiny fraction of a cent, so independent artists need millions of plays just to pay the bills. On Bandcamp, most of a $10 album goes straight to the artist.",
+        "For Chris it comes down to energy. \"Our real currency on this planet is energy,\" he says. Money is just how we exchange it. When someone puts hours of their human energy into a piece of music, that work has value that an AI-generated track can't replace.",
+        "His advice for listeners is simple: support the artists you love directly. \"That's the only way.\""
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        }
+      ],
+      "image": "synphaera-header"
+    },
+    {
+      "id": "the-teacher",
+      "image": "story-teacher",
+      "title": "Teaching the World to Make Ambient",
+      "subtitle": "From Twitch streams to one of YouTube's go-to ambient channels",
+      "category": "Craft",
+      "body": [
+        "Chris has always taught. For almost 19 years it was guitar, and he loved watching students graduate and go on to Berklee, USC and NYU. In 2016 he was already streaming ambient production live on Twitch.",
+        "Around 2021 he went all in on YouTube. His channel became one of the platform's go-to places for ambient production, with more than 490 videos, over 4 million views and more than 44,000 subscribers. On Patreon he posts every other day: videos, presets, packs and multi-part track builds. He also hosts his own podcast, Harmonic Horizons.",
+        "What he finds most rewarding is seeing students reach their goals. Many don't want to go pro. They just want to reach a standard they're proud of. \"When I see them release their first track,\" he says, \"that's the most satisfying thing.\"",
+        "In 2023 he stepped away from guitar teaching to focus on it all. Today he offers one-to-one coaching, a six-week mentorship, and Ambient Music Production for Beginners, his coaching app on Studio."
+      ],
+      "sources": [
+        {
+          "name": "Journeys to the Infinite (2024)",
+          "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+        },
+        {
+          "name": "S1gns Of L1fe Blogspot (2016)",
+          "url": "https://s1gnsofl1fe.blogspot.com/"
+        },
+        {
+          "name": "S1gns Of L1fe on YouTube",
+          "url": "https://www.youtube.com/@s1gns0fl1fe"
+        },
+        {
+          "name": "S1gns Blog",
+          "url": "https://www.s1gnsofl1fe.com/s1gnsblog"
+        },
+        {
+          "name": "S1gns Of L1fe on Patreon (About)",
+          "url": "https://www.patreon.com/s1gnsofl1fe/about"
+        },
+        {
+          "name": "s1gnsofl1fe.com: Mentorship",
+          "url": "https://www.s1gnsofl1fe.com/mentorship"
+        }
+      ]
+    },
+    {
+      "id": "made-in-ableton",
+      "image": "story-ableton",
+      "title": "One Sample, a Whole World",
+      "subtitle": "Inside Chris's Made in Ableton Live episode",
+      "category": "Craft",
+      "body": [
+        "In February 2024, Ableton invited Chris into its Made in Ableton Live video series. The result was \"Particle Acceleration\", a track built entirely from ideas sparked by a single sample.",
+        "He layers glitchy percussion, ethereal pads and intertwining melodies. He also uses Chance tools, LFOs and Beat Repeat to add controlled randomness, so the track keeps shifting without falling apart.",
+        "Plucked tones are turned into evolving washes of sound with Granulator, and the episode closes with his tips on melody, arrangement and mixing.",
+        "The finished track came out on Synphaera, and the session template he uses is available through Material as Utility."
+      ],
+      "sources": [
+        {
+          "name": "Ableton Blog: Made in Ableton Live",
+          "url": "https://www.ableton.com/en/blog/made-in-ableton-live-s1gns-of-l1fe/"
+        },
+        {
+          "name": "Made in Ableton Live (YouTube)",
+          "url": "https://www.youtube.com/watch?v=PVBFho9AfRk"
+        },
+        {
+          "name": "Particle Acceleration (Bandcamp)",
+          "url": "https://synphaera.bandcamp.com/track/particle-acceleration"
+        }
+      ]
+    },
+    {
+      "id": "tools-from-the-workflow",
+      "image": "story-tools",
+      "title": "Building the Tools He Needed",
+      "subtitle": "Presets, plugins and instruments born in the studio",
+      "category": "Gear",
+      "body": [
+        "Chris sees plugins as sculpting tools. He has called them his \"chisels\", tools for stretching a sound without breaking it.",
+        "For years he shaped other people's instruments, making videos, presets and soundbanks for companies like Ableton, Steinberg, Output, Baby Audio, Lunacy Audio and Audiomodern. Through Material he released preset libraries such as Ancient Technology, Eternia, Chromatic and Anomaly.",
+        "Then he started building his own. SOL, a free reverb made with Dawesome, came first. The free Texture Loom, the Stellarizer MIDI sequencer, Glitchwork, Parallax Well and the TRANQUILITY synthesizer followed.",
+        "Each one begins with a musical need. With TRANQUILITY, he wanted a synthesizer that stays alive after the patch is built."
+      ],
+      "sources": [
+        {
+          "name": "Plugin Boutique",
+          "url": "https://www.pluginboutique.com/articles/2068-S1gns-of-L1fe-Shares-his-Top-Five-Plugins-for-Ambient-Music"
+        },
+        {
+          "name": "s1gnsofl1fe.com: Clients",
+          "url": "https://www.s1gnsofl1fe.com/clients"
+        },
+        {
+          "name": "s1gnsofl1fe.com: SOL",
+          "url": "https://www.s1gnsofl1fe.com/sol-plugin"
+        },
+        {
+          "name": "s1gnsofl1fe.com: Plugins",
+          "url": "https://www.s1gnsofl1fe.com/s1gns-of-l1fe-plugins"
+        },
+        {
+          "name": "s1gnsofl1fe.com: TRANQUILITY",
+          "url": "https://www.s1gnsofl1fe.com/tranquility"
+        },
+        {
+          "name": "Material on Bandcamp",
+          "url": "https://material.bandcamp.com/"
+        }
+      ]
+    },
+    {
+      "id": "modular-journey",
+      "image": "story-modular",
+      "title": "Down the Eurorack Rabbit Hole",
+      "subtitle": "Modular synthesis as a path of discovery",
+      "category": "Gear",
+      "body": [
+        "Chris's Eurorack journey began with simple curiosity and soon became an obsession. Every patch revealed new sounds and possibilities.",
+        "His rack is built around exploration: Make Noise MATHS and TEMPI for modulation and time, Instruō arbhar and Qu-Bit Stardust for granular and tape textures, and an OXI One sequencer to tie it together.",
+        "For him, modular is a way of discovering himself as much as sound. It taught him to embrace imperfection, stay curious and follow the music wherever it leads.",
+        "That path now shapes his records. Ascendant has moved almost entirely to hardware and modular, and Synphaera's Assemblage imprint is devoted to music made through live patching and deep listening."
+      ],
+      "sources": [
+        {
+          "name": "s1gnsofl1fe.com: Modular",
+          "url": "https://www.s1gnsofl1fe.com/modular"
+        },
+        {
+          "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+          "url": "https://www.ambientvisions.com/synphaera.htm"
+        },
+        {
+          "name": "Synphaera",
+          "url": "https://www.synphaera.com/"
+        }
+      ]
+    },
+    {
+      "id": "live-and-in-the-moment",
+      "image": "story-live",
+      "title": "Live, From California to Wuppertal",
+      "subtitle": "Performing ambient music on stage and on camera",
+      "category": "Live",
+      "body": [
+        "Chris has performed for audiences around the world. In 2014, Ascendant traveled from California to the Ambient Music Conference in Helsinki. In 2017, the duo played a street festival in San Francisco.",
+        "At Ascendant shows, people have even danced, a reminder that Synphaera's core sound carries a real pulse.",
+        "Chris shares what he has learned about performing ambient music in tutorials. In 2025 he started the Performance Series, recorded live sets under both S1gns Of L1fe and Starterra.",
+        "In March 2025 he visited Martin Stürtzer's studio in Wuppertal, Germany. Together they recorded Black Ocean, a 35-minute space ambient set played live on Martin's hardware synths. The only soft synth was a pad from Chris's own Hive soundset."
+      ],
+      "sources": [
+        {
+          "name": "s1gnsofl1fe.com",
+          "url": "https://www.s1gnsofl1fe.com/"
+        },
+        {
+          "name": "s1gnsofl1fe.com: Awards, Radio, Press & Live",
+          "url": "https://www.s1gnsofl1fe.com/awards"
+        },
+        {
+          "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+          "url": "https://www.ambientvisions.com/synphaera.htm"
+        },
+        {
+          "name": "Tips for Performing Ambient Music (YouTube)",
+          "url": "https://www.youtube.com/watch?v=ZIAbx06nbeo"
+        },
+        {
+          "name": "Performance Series 01 (YouTube)",
+          "url": "https://www.youtube.com/watch?v=_s_qI7bkmbo"
+        },
+        {
+          "name": "Starterra Performance Series 03 (YouTube)",
+          "url": "https://www.youtube.com/watch?v=Ql2xsbHitWw"
+        },
+        {
+          "name": "Martin Stürtzer: Black Ocean liveset",
+          "url": "https://martinstuertzer.de/2025/03/16/black-ocean-liveset-and-album-with-s1gns-of-l1fe/"
+        },
+        {
+          "name": "Black Ocean (Bandcamp)",
+          "url": "https://phelios.bandcamp.com/album/black-ocean-2"
+        }
+      ]
+    },
+    {
+      "id": "on-the-airwaves",
+      "image": "story-airwaves",
+      "title": "On the Airwaves",
+      "subtitle": "Radio, awards and a channel of their own",
+      "category": "Label",
+      "body": [
+        "Radio has been part of the story from the start. Ascendant's early releases were played by SomaFM, DI.FM, Hearts of Space, Star's End and Echoes, and those plays helped convince Chris and Don to build a label.",
+        "Hearts of Space later featured S1gns Of L1fe tracks in two programs: \"Astral Plane\" on Wintertronic 3 (2022) and \"The Age of Cymatics\" on Star Tracer (2023). Star's End has also played his music, including \"Dimensional Shift\" and \"Alchemy of the Infinite\".",
+        "SomaFM gave the label its own station, Synphaera Radio, with Chris and Don as music directors.",
+        "In 2024, Portal to Transcendence tied for second place for Ambient Album at Germany's Schallwelle awards, and Cyclical Dreams Magazine named Ascendant's Starfall its album of the year."
+      ],
+      "sources": [
+        {
+          "name": "Igloo Magazine: Five questions for Synphaera Records",
+          "url": "https://igloomag.com/profiles/five-questions-for-synphaera-records"
+        },
+        {
+          "name": "Hearts of Space PGM 1332: Wintertronic 3",
+          "url": "https://v4.hos.com/programs/details/1332"
+        },
+        {
+          "name": "Hearts of Space PGM 1340: Star Tracer",
+          "url": "https://v4.hos.com/programs/details/1340"
+        },
+        {
+          "name": "Star's End playlist 02.14.21",
+          "url": "https://www.starsend.org/playlists/02.14.21.html"
+        },
+        {
+          "name": "Star's End playlist 06.02.24",
+          "url": "https://www.starsend.org/playlists/06.02.24.html"
+        },
+        {
+          "name": "SomaFM: About Your Synphaera Radio DJ",
+          "url": "https://somafm.com/synphaera/aboutyourdj.html"
+        },
+        {
+          "name": "SomaFM: Synphaera Radio",
+          "url": "https://somafm.com/synphaera/"
+        },
+        {
+          "name": "Schallwelle Preis 2024 winners",
+          "url": "https://schallwelle-preis.de/gewinner/gewinner-2024/"
+        },
+        {
+          "name": "Starfall (Bandcamp)",
+          "url": "https://synphaera.bandcamp.com/album/starfall"
+        }
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "The intuitive voice that's the strongest is often the quietest.",
+      "source": {
+        "name": "Journeys to the Infinite (2024)",
+        "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+      }
+    },
+    {
+      "text": "Our real currency on this planet is energy.",
+      "source": {
+        "name": "Journeys to the Infinite (2024)",
+        "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+      }
+    },
+    {
+      "text": "People had helped me make this album.",
+      "source": {
+        "name": "Journeys to the Infinite (2024)",
+        "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+      }
+    },
+    {
+      "text": "Every day I wake up, I'm happy to be who I am.",
+      "source": {
+        "name": "Journeys to the Infinite (2024)",
+        "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+      }
+    },
+    {
+      "text": "Twelve years in the Chinese zodiac is one full cycle. Dragon to dragon.",
+      "source": {
+        "name": "Journeys to the Infinite (2024)",
+        "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+      }
+    },
+    {
+      "text": "Support the artist directly. That's the only way.",
+      "source": {
+        "name": "Journeys to the Infinite (2024)",
+        "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+      }
+    },
+    {
+      "text": "Collaboration in the sky means everyone coming together.",
+      "source": {
+        "name": "Journeys to the Infinite (2024)",
+        "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+      }
+    },
+    {
+      "text": "Since 2012, I've poured everything I have into ambient music.",
+      "source": {
+        "name": "S1gns Of L1fe on Patreon (About)",
+        "url": "https://www.patreon.com/s1gnsofl1fe/about"
+      }
+    },
+    {
+      "text": "There is no beginning or end, only your willingness to take the initial step.",
+      "source": {
+        "name": "s1gnsofl1fe.com",
+        "url": "https://www.s1gnsofl1fe.com/"
+      }
+    },
+    {
+      "text": "The void is a place where all creativity spawns from.",
+      "source": {
+        "name": "S1gns Blog: The Intuitive Aspect of Music Production",
+        "url": "https://www.s1gnsofl1fe.com/s1gnsblog/the-intuitive-aspect-of-music-production"
+      }
+    },
+    {
+      "text": "Music is a universal language.",
+      "source": {
+        "name": "S1gns Blog: The Unlimited Power of Music Production",
+        "url": "https://www.s1gnsofl1fe.com/s1gnsblog/the-unlimited-power-of-music-production"
+      }
+    },
+    {
+      "text": "It wasn't necessarily the tools, it was how I was using the tools.",
+      "source": {
+        "name": "S1gns Blog: Creating Icy Drones from Scratch",
+        "url": "https://www.s1gnsofl1fe.com/s1gnsblog/creating-icy-drones-from-scratch"
+      }
+    },
+    {
+      "text": "Every plugin starts with a musical need.",
+      "source": {
+        "name": "s1gnsofl1fe.com: Plugins",
+        "url": "https://www.s1gnsofl1fe.com/s1gns-of-l1fe-plugins"
+      }
+    },
+    {
+      "text": "I wanted a synthesizer that stayed alive after the patch was built.",
+      "source": {
+        "name": "s1gnsofl1fe.com: TRANQUILITY",
+        "url": "https://www.s1gnsofl1fe.com/tranquility"
+      }
+    },
+    {
+      "text": "Embrace imperfection, stay curious, and follow the music wherever it leads.",
+      "source": {
+        "name": "s1gnsofl1fe.com: Modular",
+        "url": "https://www.s1gnsofl1fe.com/modular"
+      }
+    },
+    {
+      "text": "This album draws inspiration from the natural and social complexities of our environment.",
+      "source": {
+        "name": "Language of The Ancients (Bandcamp)",
+        "url": "https://s1gnsofl1fe.bandcamp.com/album/language-of-the-ancients"
+      }
+    },
+    {
+      "text": "Plugins are my chisels.",
+      "source": {
+        "name": "Plugin Boutique",
+        "url": "https://www.pluginboutique.com/articles/2068-S1gns-of-L1fe-Shares-his-Top-Five-Plugins-for-Ambient-Music"
+      }
+    },
+    {
+      "text": "\"Space Music\" to us reflects not only physical space, but the imaginary space within.",
+      "source": {
+        "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+        "url": "https://www.ambientvisions.com/synphaera.htm"
+      }
+    },
+    {
+      "text": "People are craving authenticity, especially in music.",
+      "source": {
+        "name": "Ambient Visions: AV Talks with Chris Bryant and Don Tyler",
+        "url": "https://www.ambientvisions.com/synphaera.htm"
+      }
+    }
+  ],
+  "interviews": [
+    {
+      "id": "igloo-five-questions-2016",
+      "title": "Five questions for Synphaera Records",
+      "outlet": "Igloo Magazine",
+      "date": "2016-10",
+      "kind": "article",
+      "url": "https://igloomag.com/profiles/five-questions-for-synphaera-records",
+      "summary": "Chris and Don Tyler explain why they launched Synphaera in 2015, how early radio support for Ascendant shaped them, and how they got Klaus Schulze's blessing for the name. They also describe their quality-first release policy."
+    },
+    {
+      "id": "igloo-starseed-2016",
+      "title": "V/A :: Starseed (Synphaera)",
+      "outlet": "Igloo Magazine",
+      "date": "2016-10",
+      "kind": "article",
+      "url": "https://igloomag.com/reviews/starseed-synphaera",
+      "summary": "A review of Synphaera's first various-artists compilation, compiled by Chris and Don and opened by Ascendant's \"Inception\". The reviewer ranks it among the strongest ambient/downtempo compilations in years."
+    },
+    {
+      "id": "ambientexotica-aethereal-code",
+      "title": "Ascendant: Æthereal Code (review)",
+      "outlet": "AmbientExotica",
+      "kind": "article",
+      "url": "http://www.ambientexotica.com/ambrev443_ascendant_aetherealcode/",
+      "summary": "A detailed track-by-track review of Ascendant's second album and Synphaera's first release. It places the album between new age, space ambient and psytrance."
+    },
+    {
+      "id": "sonic-immersion-cymatics",
+      "title": "S1gns Of L1fe: The Age of Cymatics",
+      "outlet": "Sonic Immersion",
+      "date": "2021-03",
+      "kind": "article",
+      "url": "https://www.sonicimmersion.org/s1gns-of-l1fe-the-age-of-cymatics/",
+      "summary": "A short review praising the album's vibrant, well-produced cosmic electronics and its emotional drive across eight tracks."
+    },
+    {
+      "id": "ableton-made-in-live-2024",
+      "title": "Made in Ableton Live: S1gns Of L1fe",
+      "outlet": "Ableton",
+      "date": "2024-02",
+      "kind": "video",
+      "url": "https://www.ableton.com/en/blog/made-in-ableton-live-s1gns-of-l1fe/",
+      "summary": "Chris builds \"Particle Acceleration\" from a single sample, using Chance tools, LFOs and Beat Repeat for controlled randomness and Granulator for evolving textures. He closes with tips on arrangement and mixing."
+    },
+    {
+      "id": "sonic-immersion-portal",
+      "title": "S1gns Of L1fe: Portal to Transcendence",
+      "outlet": "Sonic Immersion",
+      "date": "2024-06",
+      "kind": "article",
+      "url": "https://www.sonicimmersion.org/s1gns-of-l1fe-portal-to-trancendence/",
+      "summary": "A review welcoming the first S1gns Of L1fe album in three years, describing its seven sequencer-driven tracks as detailed, spacious and almost blissful."
+    },
+    {
+      "id": "journeys-to-the-infinite-2024",
+      "title": "Chris Bryant: S1gns of 1nf1n1ty",
+      "outlet": "Journeys to the Infinite",
+      "date": "2024-06",
+      "kind": "podcast",
+      "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty",
+      "summary": "A wide-ranging conversation with host Marius-Christian Burcea: the meaning behind the name S1gns Of L1fe, growing up on heavy metal, almost 19 years of teaching guitar, the 2012 moment that changed everything, founding Synphaera with Klaus Schulze's blessing, Starterra's lockdown birth, Aura, and why energy is the real currency of music."
+    },
+    {
+      "id": "stuertzer-black-ocean-2025",
+      "title": "Black Ocean: liveset and album with S1gns Of L1fe",
+      "outlet": "Martin Stürtzer",
+      "date": "2025-03",
+      "kind": "article",
+      "url": "https://martinstuertzer.de/2025/03/16/black-ocean-liveset-and-album-with-s1gns-of-l1fe/",
+      "summary": "Martin Stürtzer describes Chris's visit to his Wuppertal studio and the 35-minute space ambient set they recorded live on his hardware synths."
+    },
+    {
+      "id": "sonic-immersion-black-ocean",
+      "title": "Martin Stürtzer & S1gns of L1fe: Black Ocean",
+      "outlet": "Sonic Immersion",
+      "date": "2025-05",
+      "kind": "article",
+      "url": "https://www.sonicimmersion.org/martin-sturtzer-s1gns-of-l1fe-black-ocean/",
+      "summary": "A review of the Wuppertal collaboration. It notes the set was a first take after the two programmed the sounds and planned the structure together."
+    },
+    {
+      "id": "bruckner-conversation-2025",
+      "title": "A Conversation with Chris Bryant (S1gns Of L1fe, Starterra, Ascendant)",
+      "outlet": "Michael Brückner (YouTube)",
+      "date": "2025-05",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=4V5zP4uRBa0",
+      "summary": "A conversation of nearly two hours, made for Brückner's 100th video. It covers Chris's projects, his philosophy as a curator and label owner, AI, spirituality in music and heavy metal."
+    },
+    {
+      "id": "plugin-boutique-top-five",
+      "title": "S1gns of L1fe Shares his Top Five Plugins for Ambient Music",
+      "outlet": "Plugin Boutique",
+      "kind": "article",
+      "url": "https://www.pluginboutique.com/articles/2068-S1gns-of-L1fe-Shares-his-Top-Five-Plugins-for-Ambient-Music",
+      "summary": "Chris picks Dawesome KONTRAST, Excite Audio Motion: Fractal, Arturia Pigments 6, Lunacy Audio BEAM 2.0 and FabFilter Pro-R 2, and explains how each shapes depth and motion in his ambient work."
+    },
+    {
+      "id": "ambient-visions-2026",
+      "title": "Synphaera: AV Talks with Chris Bryant and Don Tyler",
+      "outlet": "Ambient Visions",
+      "date": "2026",
+      "kind": "article",
+      "url": "https://www.ambientvisions.com/synphaera.htm",
+      "summary": "An in-depth interview covering Ascendant's origins, the rejection that led to Synphaera, the birth of Exosphere, how the labels work with artists, and the duo's move to hardware and modular. Chris also talks about authenticity in the age of AI."
+    },
+    {
+      "id": "bpb-texture-loom-2026",
+      "title": "S1gns Of L1fe releases FREE Texture Loom atmosphere engine plugin",
+      "outlet": "Bedroom Producers Blog",
+      "date": "2026-06",
+      "kind": "article",
+      "url": "https://bedroomproducersblog.com/2026/06/03/s1gns-of-l1fe-texture-loom/",
+      "summary": "News coverage of the free dual-sample atmosphere engine, which turns simple source material into evolving pads, drones and textures."
+    },
+    {
+      "id": "kvr-texture-loom-2026",
+      "title": "S1gns Of L1fe Releases Texture Loom - Free Dual-Sample Atmosphere Engine",
+      "outlet": "KVR Audio",
+      "date": "2026",
+      "kind": "article",
+      "url": "https://www.kvraudio.com/news/s1gns-of-l1fe-releases-texture-loom---free-dual-sample-atmosphere-engine-67235",
+      "summary": "KVR's news item announcing Texture Loom in VST3, AU and Max for Live formats. A follow-up covers the v1.1 update."
+    },
+    {
+      "id": "apg-stellarizer-2026",
+      "title": "S1gns of L1fe introduces Stellarizer performance-to-pattern MIDI sequencer",
+      "outlet": "Audio Plugin Guy",
+      "date": "2026-07",
+      "kind": "article",
+      "url": "https://www.audiopluginguy.com/news-s1gns-of-l1fe-introduces-stellarizer-performance-to-pattern-midi-sequencer-plugin/",
+      "summary": "A news story on Stellarizer, which records a live MIDI performance, analyzes its timing, contour and velocity, and generates related patterns across Near, Far and Deep Space ranges."
+    },
+    {
+      "id": "hos-1332",
+      "title": "Hearts of Space PGM 1332: Wintertronic 3",
+      "outlet": "Hearts of Space",
+      "date": "2022-12",
+      "kind": "radio",
+      "url": "https://v4.hos.com/programs/details/1332",
+      "summary": "A program on sequencer-driven electronic music that includes \"Astral Plane\" from Pathways to Ascension."
+    },
+    {
+      "id": "hos-1340",
+      "title": "Hearts of Space PGM 1340: Star Tracer",
+      "outlet": "Hearts of Space",
+      "date": "2023-03",
+      "kind": "radio",
+      "url": "https://v4.hos.com/programs/details/1340",
+      "summary": "A program on modern synth and plugin-driven space music that includes the title track of The Age of Cymatics."
+    },
+    {
+      "id": "stars-end-2021",
+      "title": "Star's End playlist 02.14.21",
+      "outlet": "Star's End (WXPN)",
+      "date": "2021-02",
+      "kind": "radio",
+      "url": "https://www.starsend.org/playlists/02.14.21.html",
+      "summary": "Host Chuck van Zyl opens the show with \"Dimensional Shift\" from The Age of Cymatics."
+    },
+    {
+      "id": "stars-end-2024",
+      "title": "Star's End playlist 06.02.24",
+      "outlet": "Star's End (WXPN)",
+      "date": "2024-06",
+      "kind": "radio",
+      "url": "https://www.starsend.org/playlists/06.02.24.html",
+      "summary": "Host Chuck van Zyl opens the show with \"Alchemy of the Infinite\" from Portal to Transcendence."
+    },
+    {
+      "id": "somafm-synphaera-radio",
+      "title": "Synphaera Radio",
+      "outlet": "SomaFM",
+      "kind": "radio",
+      "url": "https://somafm.com/synphaera/",
+      "summary": "A dedicated, commercial-free SomaFM channel for the Synphaera catalog, programmed with Chris and Don as music directors."
+    },
+    {
+      "id": "ambient-music-conference-helsinki",
+      "title": "The Ambient Music Conference, Helsinki",
+      "outlet": "five12 forum (event listing)",
+      "kind": "article",
+      "url": "https://forum.five12.net/forum/music/events/2656-the-ambient-music-conference-june-27-28-helsinki-finla",
+      "summary": "Event post referencing a performance by Ascendant traveling from California.",
+      "confidence": "low"
+    }
+  ],
+  "labels": [
+    {
+      "name": "Synphaera Records",
+      "role": "Co-founder (with Don Tyler)",
+      "founded": "2015",
+      "description": "An independent label for modern electronic ambient and space music. It launched with Ascendant's Æthereal Code, and its name comes from a Klaus Schulze track, used with his blessing.",
+      "url": "https://www.synphaera.com/",
+      "bandcamp": "https://synphaera.bandcamp.com",
+      "logo": "synphaera-logo"
+    },
+    {
+      "name": "Exosphere",
+      "role": "Co-founder",
+      "founded": "2018",
+      "description": "Synphaera's imprint for dark ambient, drone, atmospheric soundscapes and deep cinematic space music. It is home to Starterra.",
+      "url": "https://exospheremusic.bandcamp.com/",
+      "bandcamp": null,
+      "logo": "label-exosphere-logo"
+    },
+    {
+      "name": "Material by Synphaera",
+      "role": "Co-founder / sound designer",
+      "founded": "2020",
+      "description": "Soundsets, presets, templates and production tools for license-free use. It includes Chris's Ancient Technology, Eternia, Chromatic and Anomaly libraries and the Utility template for Ableton Live.",
+      "url": "https://material.bandcamp.com/",
+      "bandcamp": null,
+      "logo": "label-material-image"
+    },
+    {
+      "name": "Aura",
+      "role": "Co-founder",
+      "founded": "2023",
+      "description": "An exclusive, subscription-based label on Bandcamp with new releases every month: unreleased Ascendant, Starterra, Phase47 and more, available nowhere else.",
+      "url": "https://auraexclusive.bandcamp.com/",
+      "confidence": "medium"
+    },
+    {
+      "name": "Assemblage",
+      "role": "Synphaera imprint",
+      "description": "Synphaera's imprint for modular and systems-based electronic music shaped through live patching and deep listening.",
+      "url": "https://www.synphaera.com/",
+      "bandcamp": null
+    },
+    {
+      "name": "Pénte",
+      "role": "Synphaera imprint",
+      "description": "Synphaera's community imprint for themed compilations, collaborative editions and discovery-focused releases.",
+      "url": "https://www.synphaera.com/",
+      "bandcamp": null
+    },
+    {
+      "name": "Arecibo Records",
+      "role": "Earlier label (artist)",
+      "description": "A Spanish ambient label that released S1gns Of L1fe's Branches in the Sky EP in 2013.",
+      "url": "https://s1gnsofl1fe.bandcamp.com/album/branches-in-the-sky"
+    }
+  ],
+  "links": [
+    {
+      "id": "spotify",
+      "title": "Spotify",
+      "subtitle": "S1gns Of L1fe artist page",
+      "url": "https://open.spotify.com/artist/6JL1oyODaCA8PKMjqkAqyI",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "apple-music",
+      "title": "Apple Music",
+      "subtitle": "S1gns Of L1fe artist page",
+      "url": "https://music.apple.com/us/artist/s1gns-of-l1fe/593092336",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "bandcamp-s1gns",
+      "title": "Bandcamp",
+      "subtitle": "Early albums on s1gnsofl1fe.bandcamp.com",
+      "url": "https://s1gnsofl1fe.bandcamp.com",
+      "category": "Listen",
+      "sfSymbol": "music.note.list"
+    },
+    {
+      "id": "youtube-music",
+      "title": "YouTube Music",
+      "subtitle": "S1gns Of L1fe artist channel",
+      "url": "https://music.youtube.com/channel/UCbpXav6KkpXJYuka-0bM5lA",
+      "category": "Listen",
+      "sfSymbol": "play.circle"
+    },
+    {
+      "id": "amazon-music",
+      "title": "Amazon Music",
+      "subtitle": "S1gns Of L1fe artist page",
+      "url": "https://music.amazon.com/artists/B00B0DE6GU/s1gns-of-l1fe",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "deezer",
+      "title": "Deezer",
+      "subtitle": "S1gns Of L1fe artist page",
+      "url": "https://www.deezer.com/artist/4665305",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "tidal",
+      "title": "TIDAL",
+      "subtitle": "S1gns Of L1fe artist page",
+      "url": "https://tidal.com/browse/artist/4898506",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "soundcloud",
+      "title": "SoundCloud",
+      "subtitle": "@s1gnsofl1fe",
+      "url": "https://soundcloud.com/s1gnsofl1fe",
+      "category": "Listen",
+      "sfSymbol": "cloud"
+    },
+    {
+      "id": "mixcloud",
+      "title": "Mixcloud",
+      "subtitle": "Ambient Online podcast archive (2013-2016)",
+      "url": "https://www.mixcloud.com/s1gnsofl1fe/",
+      "category": "Listen",
+      "sfSymbol": "headphones"
+    },
+    {
+      "id": "somafm-synphaera",
+      "title": "SomaFM: Synphaera Radio",
+      "subtitle": "24/7 channel of Synphaera music",
+      "url": "https://somafm.com/synphaera/",
+      "category": "Listen",
+      "sfSymbol": "dot.radiowaves.left.and.right"
+    },
+    {
+      "id": "spotify-ascendant",
+      "title": "Ascendant on Spotify",
+      "subtitle": "Duo with Don Tyler",
+      "url": "https://open.spotify.com/artist/5GL7I0So5lKVvC1QwnMUkZ",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "apple-ascendant",
+      "title": "Ascendant on Apple Music",
+      "subtitle": "Duo with Don Tyler",
+      "url": "https://music.apple.com/us/artist/ascendant/1026423785",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "spotify-starterra",
+      "title": "Starterra on Spotify",
+      "subtitle": "Cinematic space ambient project",
+      "url": "https://open.spotify.com/artist/2i1zWSi5eQoHx9V1E9ueri",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "apple-starterra",
+      "title": "Starterra on Apple Music",
+      "subtitle": "Cinematic space ambient project",
+      "url": "https://music.apple.com/us/artist/starterra/1537342591",
+      "category": "Listen",
+      "sfSymbol": "music.note"
+    },
+    {
+      "id": "aura",
+      "title": "AURA",
+      "subtitle": "Exclusive music subscription on Bandcamp",
+      "url": "https://auraexclusive.bandcamp.com",
+      "category": "Listen",
+      "sfSymbol": "sparkles"
+    },
+    {
+      "id": "bandcamp-ascendant",
+      "title": "Ascendant Bandcamp",
+      "subtitle": "Early Ascendant releases",
+      "url": "https://ambientascendant.bandcamp.com",
+      "category": "Listen",
+      "sfSymbol": "music.note.list"
+    },
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "subtitle": "Tutorials, walkthroughs and live sets",
+      "url": "https://www.youtube.com/@s1gns0fl1fe",
+      "category": "Watch",
+      "sfSymbol": "play.rectangle.fill"
+    },
+    {
+      "id": "youtube-modular",
+      "title": "S1gns Of L1fe Modular",
+      "subtitle": "Modular synthesis channel",
+      "url": "https://www.youtube.com/@S1gnsOfL1feModular",
+      "category": "Watch",
+      "sfSymbol": "cable.connector"
+    },
+    {
+      "id": "youtube-synphaera",
+      "title": "Synphaera on YouTube",
+      "subtitle": "Label channel",
+      "url": "https://www.youtube.com/channel/UCxbv0nvZwm0WT6zouZbGSWA",
+      "category": "Watch",
+      "sfSymbol": "play.rectangle"
+    },
+    {
+      "id": "tiktok",
+      "title": "TikTok",
+      "subtitle": "@s1gnsofl1fe",
+      "url": "https://www.tiktok.com/@s1gnsofl1fe",
+      "category": "Watch",
+      "sfSymbol": "music.note.tv"
+    },
+    {
+      "id": "patreon",
+      "title": "Patreon",
+      "subtitle": "Tutorials, presets and project files",
+      "url": "https://www.patreon.com/s1gnsofl1fe",
+      "category": "Learn",
+      "sfSymbol": "star.circle.fill"
+    },
+    {
+      "id": "mentorship",
+      "title": "Mentorship & Coaching",
+      "subtitle": "One-on-one ambient coaching",
+      "url": "https://www.s1gnsofl1fe.com/mentorship",
+      "category": "Learn",
+      "sfSymbol": "person.2.fill"
+    },
+    {
+      "id": "studio-app",
+      "title": "Ambient Music for Beginners",
+      "subtitle": "Course app on Studio",
+      "url": "https://studio.com/s1gnsofl1fe/ambientforbeginners",
+      "category": "Learn",
+      "sfSymbol": "graduationcap.fill"
+    },
+    {
+      "id": "blog",
+      "title": "S1gns Blog",
+      "subtitle": "Articles on the official site",
+      "url": "https://www.s1gnsofl1fe.com/s1gnsblog",
+      "category": "Learn",
+      "sfSymbol": "doc.text"
+    },
+    {
+      "id": "modular-gear",
+      "title": "Modular Gear List",
+      "subtitle": "His full modular setup",
+      "url": "https://www.s1gnsofl1fe.com/modular",
+      "category": "Learn",
+      "sfSymbol": "slider.vertical.3"
+    },
+    {
+      "id": "gumroad",
+      "title": "Gumroad Store",
+      "subtitle": "Plugins, wavetables and preset packs",
+      "url": "https://s1gnsofl1fe.gumroad.com",
+      "category": "Shop",
+      "sfSymbol": "bag.fill"
+    },
+    {
+      "id": "plugins-page",
+      "title": "S1gns Of L1fe Plugins",
+      "subtitle": "All plugins on the official site",
+      "url": "https://www.s1gnsofl1fe.com/s1gns-of-l1fe-plugins",
+      "category": "Shop",
+      "sfSymbol": "slider.horizontal.3"
+    },
+    {
+      "id": "app-store",
+      "title": "iPad Apps",
+      "subtitle": "All apps on the App Store",
+      "url": "https://apps.apple.com/us/developer/christopher-bryant/id431799472",
+      "category": "Shop",
+      "sfSymbol": "ipad"
+    },
+    {
+      "id": "material",
+      "title": "Material by Synphaera",
+      "subtitle": "Synths, presets and soundsets",
+      "url": "https://material.bandcamp.com",
+      "category": "Shop",
+      "sfSymbol": "square.stack.3d.up.fill"
+    },
+    {
+      "id": "tranquility",
+      "title": "TRANQUILITY",
+      "subtitle": "Hybrid ambient synth (Material)",
+      "url": "https://material.bandcamp.com/album/tranquility",
+      "category": "Shop",
+      "sfSymbol": "pianokeys"
+    },
+    {
+      "id": "s1gnal-b1ome",
+      "title": "S1GNAL B1OME",
+      "subtitle": "Polyphonic drone synth (Material)",
+      "url": "https://material.bandcamp.com/album/s1gnal-b1ome",
+      "category": "Shop",
+      "sfSymbol": "waveform"
+    },
+    {
+      "id": "sol",
+      "title": "SOL Reverb",
+      "subtitle": "Free reverb made with Dawesome",
+      "url": "https://www.dawesomemusic.com/plugins/sol/",
+      "category": "Shop",
+      "sfSymbol": "sun.max.fill"
+    },
+    {
+      "id": "spectra",
+      "title": "SPECTRA for Soundbox",
+      "subtitle": "Free ambient pack with Audiomodern",
+      "url": "https://audiomodern.com/shop/packs/spectra/",
+      "category": "Shop",
+      "sfSymbol": "sparkles"
+    },
+    {
+      "id": "vital-profile",
+      "title": "Vital Presets",
+      "subtitle": "Free packs on vitalsynth.com",
+      "url": "https://www.vitalsynth.com/profiles/s1gnsofl1fe/",
+      "category": "Shop",
+      "sfSymbol": "dial.medium"
+    },
+    {
+      "id": "merch",
+      "title": "Merch",
+      "subtitle": "Shirts and free packs",
+      "url": "https://www.s1gnsofl1fe.com/merch",
+      "category": "Shop",
+      "sfSymbol": "tshirt.fill"
+    },
+    {
+      "id": "synphaera-merch",
+      "title": "Synphaera Merch",
+      "subtitle": "Official label merch on ToneThreads",
+      "url": "https://tonethreads.com/synphaera/merch",
+      "category": "Shop",
+      "sfSymbol": "tshirt"
+    },
+    {
+      "id": "amazon-storefront",
+      "title": "Amazon Storefront",
+      "subtitle": "Gear he recommends",
+      "url": "https://www.amazon.com/shop/s1gnsofl1fe",
+      "category": "Gear Picks",
+      "sfSymbol": "cart.fill"
+    },
+    {
+      "id": "plugin-boutique",
+      "title": "Plugin Boutique",
+      "subtitle": "Partner link",
+      "url": "https://pluginboutique.com/?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "cart"
+    },
+    {
+      "id": "zzounds",
+      "title": "zZounds Gear List",
+      "subtitle": "Partner link",
+      "url": "https://www.zzounds.com/share--s1gns_of_l1fe_gearlist",
+      "category": "Gear Picks",
+      "sfSymbol": "cart"
+    },
+    {
+      "id": "buymeacoffee",
+      "title": "Buy Me a Coffee",
+      "subtitle": "Support the channel",
+      "url": "https://buymeacoffee.com/s1gnsofl1fe",
+      "category": "Shop",
+      "sfSymbol": "cup.and.saucer.fill"
+    },
+    {
+      "id": "paypal",
+      "title": "PayPal Donation",
+      "subtitle": "Support the channel",
+      "url": "https://paypal.me/s1gnsofl1fe",
+      "category": "Shop",
+      "sfSymbol": "heart.fill"
+    },
+    {
+      "id": "instagram",
+      "title": "Instagram",
+      "subtitle": "@s1gnsofl1fe",
+      "url": "https://www.instagram.com/s1gnsofl1fe",
+      "category": "Social",
+      "sfSymbol": "camera.fill"
+    },
+    {
+      "id": "x",
+      "title": "X (Twitter)",
+      "subtitle": "@S1gnsOfL1fe",
+      "url": "https://x.com/s1gnsofl1fe",
+      "category": "Social",
+      "sfSymbol": "at"
+    },
+    {
+      "id": "threads",
+      "title": "Threads",
+      "subtitle": "@s1gnsofl1fe",
+      "url": "https://www.threads.com/@s1gnsofl1fe",
+      "category": "Social",
+      "sfSymbol": "at.circle"
+    },
+    {
+      "id": "bluesky",
+      "title": "Bluesky",
+      "subtitle": "@s1gnsofl1fe.bsky.social",
+      "url": "https://bsky.app/profile/s1gnsofl1fe.bsky.social",
+      "category": "Social",
+      "sfSymbol": "cloud.fill"
+    },
+    {
+      "id": "facebook",
+      "title": "Facebook",
+      "subtitle": "S1gns Of L1fe page",
+      "url": "https://www.facebook.com/S1gnsOfL1fe/",
+      "category": "Social",
+      "sfSymbol": "person.2.circle"
+    },
+    {
+      "id": "linkedin",
+      "title": "LinkedIn",
+      "subtitle": "Chris Bryant",
+      "url": "https://www.linkedin.com/in/chrisbryantguitar/",
+      "category": "Social",
+      "sfSymbol": "briefcase.fill"
+    },
+    {
+      "id": "discord",
+      "title": "Synphaera Discord",
+      "subtitle": "Community server",
+      "url": "https://discord.gg/aGNnqMunqr",
+      "category": "Social",
+      "sfSymbol": "bubble.left.and.bubble.right.fill"
+    },
+    {
+      "id": "linktree",
+      "title": "Linktree",
+      "subtitle": "All links",
+      "url": "https://linktr.ee/s1gnsofl1fe",
+      "category": "Social",
+      "sfSymbol": "link"
+    },
+    {
+      "id": "bandcamp-fan",
+      "title": "Bandcamp Collection",
+      "subtitle": "What he's listening to",
+      "url": "https://bandcamp.com/s1gnsofl1fe",
+      "category": "Social",
+      "sfSymbol": "heart.text.square"
+    },
+    {
+      "id": "ascendant-x",
+      "title": "Ascendant on X",
+      "subtitle": "@AscendantMusic",
+      "url": "https://x.com/ascendantmusic",
+      "category": "Social",
+      "sfSymbol": "at"
+    },
+    {
+      "id": "ascendant-soundcloud",
+      "title": "Ascendant on SoundCloud",
+      "subtitle": "Official",
+      "url": "https://soundcloud.com/ambientascendant",
+      "category": "Social",
+      "sfSymbol": "cloud"
+    },
+    {
+      "id": "synphaera",
+      "title": "Synphaera Records",
+      "subtitle": "Label he co-founded in 2015",
+      "url": "https://www.synphaera.com",
+      "category": "Label",
+      "sfSymbol": "opticaldisc.fill"
+    },
+    {
+      "id": "synphaera-bandcamp",
+      "title": "Synphaera on Bandcamp",
+      "subtitle": "S1gns Of L1fe and Ascendant releases",
+      "url": "https://synphaera.bandcamp.com",
+      "category": "Label",
+      "sfSymbol": "opticaldisc"
+    },
+    {
+      "id": "exosphere",
+      "title": "Exosphere",
+      "subtitle": "Starterra and deep space ambient",
+      "url": "https://exospheremusic.bandcamp.com",
+      "category": "Label",
+      "sfSymbol": "circle.circle"
+    },
+    {
+      "id": "assemblage",
+      "title": "Assemblage",
+      "subtitle": "Synphaera modular imprint",
+      "url": "https://assemblage.bandcamp.com",
+      "category": "Label",
+      "sfSymbol": "opticaldisc"
+    },
+    {
+      "id": "pente",
+      "title": "Pénte",
+      "subtitle": "Synphaera community imprint",
+      "url": "https://pente.bandcamp.com",
+      "category": "Label",
+      "sfSymbol": "opticaldisc"
+    },
+    {
+      "id": "synphaera-instagram",
+      "title": "Synphaera Instagram",
+      "subtitle": "@synphaera",
+      "url": "https://www.instagram.com/synphaera/",
+      "category": "Label",
+      "sfSymbol": "camera"
+    },
+    {
+      "id": "synphaera-x",
+      "title": "Synphaera on X",
+      "subtitle": "@SynphaeraMusic",
+      "url": "https://x.com/synphaeramusic",
+      "category": "Label",
+      "sfSymbol": "at"
+    },
+    {
+      "id": "synphaera-facebook",
+      "title": "Synphaera on Facebook",
+      "subtitle": "Label page",
+      "url": "https://www.facebook.com/synphaera/",
+      "category": "Label",
+      "sfSymbol": "person.2.circle"
+    },
+    {
+      "id": "ableton-blog",
+      "title": "Made in Ableton Live",
+      "subtitle": "Ableton feature on his process",
+      "url": "https://www.ableton.com/en/blog/made-in-ableton-live-s1gns-of-l1fe/",
+      "category": "Press",
+      "sfSymbol": "newspaper.fill"
+    },
+    {
+      "id": "plugin-boutique-article",
+      "title": "Top Five Plugins for Ambient",
+      "subtitle": "Plugin Boutique article",
+      "url": "https://www.pluginboutique.com/articles/2068-S1gns-of-L1fe-Shares-his-Top-Five-Plugins-for-Ambient-Music",
+      "category": "Press",
+      "sfSymbol": "newspaper"
+    },
+    {
+      "id": "journeys-infinite",
+      "title": "Journeys to the Infinite",
+      "subtitle": "Interview",
+      "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty",
+      "category": "Press",
+      "sfSymbol": "mic.fill"
+    },
+    {
+      "id": "ambient-visions",
+      "title": "Ambient Visions",
+      "subtitle": "AV Talks with Chris Bryant and Don Tyler",
+      "url": "https://www.ambientvisions.com/synphaera.htm",
+      "category": "Press",
+      "sfSymbol": "mic.fill"
+    },
+    {
+      "id": "somafm-dj",
+      "title": "SomaFM: About Synphaera",
+      "subtitle": "Channel info",
+      "url": "https://somafm.com/synphaera/aboutyourdj.html",
+      "category": "Press",
+      "sfSymbol": "dot.radiowaves.right"
+    },
+    {
+      "id": "brueckner-conversation",
+      "title": "A Conversation with Chris Bryant",
+      "subtitle": "Video interview by Michael Brückner",
+      "url": "https://www.youtube.com/watch?v=4V5zP4uRBa0",
+      "category": "Press",
+      "sfSymbol": "video.fill"
+    },
+    {
+      "id": "discogs",
+      "title": "Discogs",
+      "subtitle": "S1gns Of L1fe discography",
+      "url": "https://www.discogs.com/artist/3222962-S1gns-Of-L1fe",
+      "category": "Press",
+      "sfSymbol": "list.bullet.rectangle"
+    },
+    {
+      "id": "discogs-ascendant",
+      "title": "Discogs: Ascendant",
+      "subtitle": "Ascendant discography",
+      "url": "https://www.discogs.com/artist/3705425-Ascendant-3",
+      "category": "Press",
+      "sfSymbol": "list.bullet.rectangle"
+    },
+    {
+      "id": "discogs-starterra",
+      "title": "Discogs: Starterra",
+      "subtitle": "Starterra discography",
+      "url": "https://www.discogs.com/artist/8214519-Starterra",
+      "category": "Press",
+      "sfSymbol": "list.bullet.rectangle"
+    },
+    {
+      "id": "musicbrainz",
+      "title": "MusicBrainz",
+      "subtitle": "S1gns Of L1fe entry",
+      "url": "https://musicbrainz.org/artist/9abff683-72d7-48d1-9390-931c74513614",
+      "category": "Press",
+      "sfSymbol": "list.bullet.rectangle"
+    },
+    {
+      "id": "awards",
+      "title": "Awards",
+      "subtitle": "Awards and radio support",
+      "url": "https://www.s1gnsofl1fe.com/awards",
+      "category": "Press",
+      "sfSymbol": "rosette"
+    },
+    {
+      "id": "website",
+      "title": "Official Website",
+      "subtitle": "s1gnsofl1fe.com",
+      "url": "https://www.s1gnsofl1fe.com",
+      "category": "Contact",
+      "sfSymbol": "globe"
+    },
+    {
+      "id": "booking",
+      "title": "Booking",
+      "subtitle": "Book a session or project",
+      "url": "https://www.s1gnsofl1fe.com/booking",
+      "category": "Contact",
+      "sfSymbol": "calendar"
+    },
+    {
+      "id": "clients",
+      "title": "Work With Me",
+      "subtitle": "Production, sound design and video",
+      "url": "https://www.s1gnsofl1fe.com/clients",
+      "category": "Contact",
+      "sfSymbol": "briefcase"
+    },
+    {
+      "id": "twitter",
+      "title": "Twitter / X",
+      "url": "https://www.twitter.com/s1gnsofl1fe",
+      "category": "Social",
+      "sfSymbol": "bubble.left.fill"
+    },
+    {
+      "id": "email",
+      "title": "Email Chris",
+      "url": "mailto:chris@synphaera.com?subject=New%20client%20inquiry",
+      "category": "Contact",
+      "sfSymbol": "envelope.fill",
+      "subtitle": "New client inquiries"
+    },
+    {
+      "id": "free-to-use-sounds",
+      "title": "Free To Use Sounds",
+      "url": "https://gumroad.com/a/875428563",
+      "category": "Shop",
+      "sfSymbol": "waveform",
+      "subtitle": "Save $5 with code s1gnsofl1fe (affiliate)"
+    },
+    {
+      "id": "stepic",
+      "title": "Stepic by Devicemeister",
+      "url": "https://devicemeister.com/p/s1gnsofl1fe",
+      "category": "Gear Picks",
+      "sfSymbol": "square.grid.3x3.fill",
+      "subtitle": "Partner link"
+    },
+    {
+      "id": "spacewalk",
+      "title": "SpaceWalk chord generator",
+      "url": "https://gumroad.com/a/334321043/jiyreu",
+      "category": "Shop",
+      "sfSymbol": "pianokeys",
+      "subtitle": "Affiliate"
+    },
+    {
+      "id": "mario-nieto",
+      "title": "Mario Nieto chord generator",
+      "url": "https://marionietoworld.com/index.php/chord-generator/?coupon=s1gns",
+      "category": "Gear Picks",
+      "sfSymbol": "pianokeys",
+      "subtitle": "Chord generator · coupon code s1gns"
+    },
+    {
+      "id": "zzounds-deals",
+      "title": "zZounds",
+      "url": "https://www.zzounds.com/a--3981114",
+      "category": "Gear Picks",
+      "sfSymbol": "cart.fill",
+      "subtitle": "Best gear deals (affiliate)"
+    },
+    {
+      "id": "sol-download",
+      "title": "SOL free reverb",
+      "url": "https://www.dawesomemusic.com/hues/sol/",
+      "category": "Shop",
+      "sfSymbol": "sun.max.fill",
+      "subtitle": "With Dawesome"
+    },
+    {
+      "id": "pb-pigments",
+      "title": "Pigments",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11867-Pigments-5?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-hive-2",
+      "title": "Hive 2",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5392-Hive-2?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-myth",
+      "title": "MYTH",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/12175-Dawesome-MYTH?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-kult",
+      "title": "KULT",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/10082-Dawesome-KULT?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-novum",
+      "title": "NOVUM",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/5-Sampler/9238-Dawesome-Novum?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-diva",
+      "title": "DIVA",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/1396-Diva?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-beam-multi-effect",
+      "title": "BEAM multi effect",
+      "url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/11990-BEAM?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-cube",
+      "title": "CUBE",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instrument/8033-CUBE?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-phase-plant",
+      "title": "Phase Plant",
+      "url": "https://www.pluginboutique.com/products/5391?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-pro-r-2-reverb",
+      "title": "PRO-R 2 reverb",
+      "url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/11576-FabFilter-Pro-R-2?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-triaz-drums",
+      "title": "Triaz drums",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11945-Triaz?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-ozone-11-mastering",
+      "title": "Ozone 11 mastering",
+      "url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/11112-Ozone-11-Standard?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-colour-copy-delay",
+      "title": "Colour Copy delay",
+      "url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/4626-Colour-Copy?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-fabfilter-mastering-bundle",
+      "title": "FabFilter mastering bundle",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/4953-FabFilter-Mastering-Bundle?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-fabfilter-pro-bundle",
+      "title": "FabFilter Pro bundle",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/11580-FabFilter-Pro-Bundle?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-timeless-3-delay",
+      "title": "Timeless 3 delay",
+      "url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/7604-FabFilter-Timeless-3?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-replicant-3-glitch",
+      "title": "Replicant 3 glitch",
+      "url": "https://www.pluginboutique.com/product/2-Effects/24-Sequencer/10363-Replicant-3?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-infiltrator-2-multi-effect",
+      "title": "Infiltrator 2 multi effect",
+      "url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7627-Infiltrator-2?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-pro-q-4-eq",
+      "title": "Pro-Q 4 EQ",
+      "url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/14125-FabFilter-Pro-Q-4?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "pb-atoms-physical-modeling-synth",
+      "title": "Atoms physical modeling synth",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11906-Atoms?a_aid=628ed85038399",
+      "category": "Gear Picks",
+      "sfSymbol": "slider.vertical.3",
+      "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "material-ancient-technology-3",
+      "title": "Ancient Technology 3 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/ancient-technology-3",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Serum 2"
+    },
+    {
+      "id": "material-anomaly-4",
+      "title": "Anomaly 4 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/anomaly-4",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Vital"
+    },
+    {
+      "id": "material-chromatic-4",
+      "title": "Chromatic 4 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/chromatic-4",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Pigments"
+    },
+    {
+      "id": "material-chromatic-3",
+      "title": "Chromatic 3 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/chromatic-3",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Pigments"
+    },
+    {
+      "id": "material-chromatic-2",
+      "title": "Chromatic 2 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/chromatic-2",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Pigments"
+    },
+    {
+      "id": "material-chromatic",
+      "title": "Chromatic (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/chromatic",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Pigments"
+    },
+    {
+      "id": "material-anomaly-3",
+      "title": "Anomaly 3 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/anomaly-3",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Vital"
+    },
+    {
+      "id": "material-anomaly-2",
+      "title": "Anomaly 2 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/anomaly-2",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up"
+    },
+    {
+      "id": "material-anomaly",
+      "title": "Anomaly (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/anomaly",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up"
+    },
+    {
+      "id": "material-ancient-technology-2",
+      "title": "Ancient Technology 2 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/ancient-technology-2",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Serum"
+    },
+    {
+      "id": "material-ancient-technology",
+      "title": "Ancient Technology (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/ancient-technology",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up"
+    },
+    {
+      "id": "material-eternia",
+      "title": "Eternia (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/eternia",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Omnisphere"
+    },
+    {
+      "id": "harmonic-horizons",
+      "title": "Harmonic Horizons Podcast",
+      "subtitle": "Chris's podcast on sound, music and creativity",
+      "url": "https://www.youtube.com/channel/UCS7xioFIuTkVpDDfZrSBf-w",
+      "category": "Watch",
+      "sfSymbol": "mic.fill"
     }
   ],
   "vault": [
@@ -164,6 +2381,9 @@
       "tags": [
         "Field recordings",
         "Samples"
+      ],
+      "body": [
+        "Recorded on a two-week trip that fulfilled a lifelong dream. Chris took a field recorder and his iPhone to capture the spirit of Japan, from futuristic Tokyo to its quieter corners."
       ]
     },
     {
