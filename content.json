@@ -1890,13 +1890,6 @@
       "sfSymbol": "briefcase"
     },
     {
-      "id": "twitter",
-      "title": "Twitter / X",
-      "url": "https://www.twitter.com/s1gnsofl1fe",
-      "category": "Social",
-      "sfSymbol": "bubble.left.fill"
-    },
-    {
       "id": "email",
       "title": "Email Chris",
       "url": "mailto:chris@synphaera.com?subject=New%20client%20inquiry",
