@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-27",
   "announcements": [
     {
       "id": "texture-loom-1-5",
@@ -98,11 +98,11 @@
       }
     },
     {
-      "value": "2",
-      "label": "Hearts of Space program features (2022, 2023)",
+      "value": "24",
+      "label": "Hearts of Space programs as S1gns Of L1fe, Ascendant and Starterra (36 broadcasts, 2014–2026)",
       "source": {
-        "name": "s1gnsofl1fe.com: Awards, Radio, Press & Live",
-        "url": "https://www.s1gnsofl1fe.com/awards"
+        "name": "Hearts of Space program archive",
+        "url": "https://www.hos.com"
       }
     },
     {
@@ -176,6 +176,12 @@
       "title": "A \"no\" that started a label",
       "detail": "After waiting two and a half months, the best-known label in the genre passes on Ascendant's album. Chris and Don decide to do it themselves.",
       "url": "https://www.journeystotheinfinite.com/post/chris-bryant-s1gns-of-1nf1n1ty"
+    },
+    {
+      "year": "2014",
+      "title": "Hearts of Space: Ethersphere",
+      "detail": "Program 1040 (April 4, 2014) is his first Hearts of Space feature, with three S1gns Of L1fe tracks. Ascendant follows that summer on Midsummer Night 3; by 2026 the show has featured his music in 24 programs.",
+      "url": "https://www.hos.com/programs/details/1040"
     },
     {
       "year": "2015",
@@ -886,7 +892,7 @@
       "category": "Label",
       "body": [
         "Radio has been part of the story from the start. Ascendant's early releases were played by SomaFM, DI.FM, Hearts of Space, Star's End and Echoes, and those plays helped convince Chris and Don to build a label.",
-        "Hearts of Space later featured S1gns Of L1fe tracks in two programs: \"Astral Plane\" on Wintertronic 3 (2022) and \"The Age of Cymatics\" on Star Tracer (2023). Star's End has also played his music, including \"Dimensional Shift\" and \"Alchemy of the Infinite\".",
+        "Hearts of Space has featured his music in 24 programs since 2014, 36 broadcasts counting repeats: 12 as Ascendant, 7 as Starterra and 5 as S1gns Of L1fe, from \"Ethersphere\" (2014) to \"Stellaris\" (2026). Star's End has also played his music, including \"Dimensional Shift\" and \"Alchemy of the Infinite\".",
         "SomaFM gave the label its own station, Synphaera Radio, with Chris and Don as music directors.",
         "In 2024, Portal to Transcendence tied for second place for Ambient Album at Germany's Schallwelle awards, and Cyclical Dreams Magazine named Ascendant's Starfall its album of the year."
       ],
@@ -894,6 +900,10 @@
         {
           "name": "Igloo Magazine: Five questions for Synphaera Records",
           "url": "https://igloomag.com/profiles/five-questions-for-synphaera-records"
+        },
+        {
+          "name": "Hearts of Space PGM 1040: Ethersphere",
+          "url": "https://www.hos.com/programs/details/1040"
         },
         {
           "name": "Hearts of Space PGM 1332: Wintertronic 3",
@@ -1664,28 +1674,12 @@
       "sfSymbol": "at.circle"
     },
     {
-      "id": "bluesky",
-      "title": "Bluesky",
-      "subtitle": "@s1gnsofl1fe.bsky.social",
-      "url": "https://bsky.app/profile/s1gnsofl1fe.bsky.social",
-      "category": "Social",
-      "sfSymbol": "cloud.fill"
-    },
-    {
       "id": "facebook",
       "title": "Facebook",
       "subtitle": "S1gns Of L1fe page",
       "url": "https://www.facebook.com/S1gnsOfL1fe/",
       "category": "Social",
       "sfSymbol": "person.2.circle"
-    },
-    {
-      "id": "linkedin",
-      "title": "LinkedIn",
-      "subtitle": "Chris Bryant",
-      "url": "https://www.linkedin.com/in/chrisbryantguitar/",
-      "category": "Social",
-      "sfSymbol": "briefcase.fill"
     },
     {
       "id": "discord",
@@ -1710,14 +1704,6 @@
       "url": "https://bandcamp.com/s1gnsofl1fe",
       "category": "Social",
       "sfSymbol": "heart.text.square"
-    },
-    {
-      "id": "ascendant-x",
-      "title": "Ascendant on X",
-      "subtitle": "@AscendantMusic",
-      "url": "https://x.com/ascendantmusic",
-      "category": "Social",
-      "sfSymbol": "at"
     },
     {
       "id": "ascendant-soundcloud",
@@ -2127,20 +2113,36 @@
       "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
     },
     {
-      "id": "material-ancient-technology-3",
-      "title": "Ancient Technology 3 (Material preset pack)",
-      "url": "https://material.bandcamp.com/album/ancient-technology-3",
+      "id": "material-chromatic-5",
+      "title": "Chromatic 5 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/chromatic-5",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Serum 2"
+      "subtitle": "For Pigments · 2026"
     },
     {
-      "id": "material-anomaly-4",
-      "title": "Anomaly 4 (Material preset pack)",
-      "url": "https://material.bandcamp.com/album/anomaly-4",
+      "id": "material-ancient-technology-4",
+      "title": "Ancient Technology 4 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/ancient-technology-4",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Vital"
+      "subtitle": "For Serum 2 · 2026"
+    },
+    {
+      "id": "material-space-and-time-ii",
+      "title": "Space and Time II (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/space-and-time-ii",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "Ascendant · for Valhalla DSP · 2025"
+    },
+    {
+      "id": "material-solara",
+      "title": "Solara (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/solara",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "Ascendant · for SOL · 2025"
     },
     {
       "id": "material-chromatic-4",
@@ -2148,7 +2150,15 @@
       "url": "https://material.bandcamp.com/album/chromatic-4",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Pigments"
+      "subtitle": "For Pigments · 2025"
+    },
+    {
+      "id": "material-ancient-technology-3",
+      "title": "Ancient Technology 3 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/ancient-technology-3",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Serum 2 · 2025"
     },
     {
       "id": "material-chromatic-3",
@@ -2156,7 +2166,23 @@
       "url": "https://material.bandcamp.com/album/chromatic-3",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Pigments"
+      "subtitle": "For Pigments · 2025"
+    },
+    {
+      "id": "material-colony",
+      "title": "Colony (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/colony",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Hive 2 · 2025"
+    },
+    {
+      "id": "material-anomaly-4",
+      "title": "Anomaly 4 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/anomaly-4",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Vital · 2024"
     },
     {
       "id": "material-chromatic-2",
@@ -2164,7 +2190,7 @@
       "url": "https://material.bandcamp.com/album/chromatic-2",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Pigments"
+      "subtitle": "For Pigments · 2024"
     },
     {
       "id": "material-chromatic",
@@ -2172,7 +2198,7 @@
       "url": "https://material.bandcamp.com/album/chromatic",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Pigments"
+      "subtitle": "For Pigments · 2024"
     },
     {
       "id": "material-anomaly-3",
@@ -2180,21 +2206,7 @@
       "url": "https://material.bandcamp.com/album/anomaly-3",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Vital"
-    },
-    {
-      "id": "material-anomaly-2",
-      "title": "Anomaly 2 (Material preset pack)",
-      "url": "https://material.bandcamp.com/album/anomaly-2",
-      "category": "Presets",
-      "sfSymbol": "square.stack.3d.up"
-    },
-    {
-      "id": "material-anomaly",
-      "title": "Anomaly (Material preset pack)",
-      "url": "https://material.bandcamp.com/album/anomaly",
-      "category": "Presets",
-      "sfSymbol": "square.stack.3d.up"
+      "subtitle": "For Vital · 2023"
     },
     {
       "id": "material-ancient-technology-2",
@@ -2202,14 +2214,23 @@
       "url": "https://material.bandcamp.com/album/ancient-technology-2",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Serum"
+      "subtitle": "For Serum · 2023"
     },
     {
-      "id": "material-ancient-technology",
-      "title": "Ancient Technology (Material preset pack)",
-      "url": "https://material.bandcamp.com/album/ancient-technology",
+      "id": "material-anomaly-2",
+      "title": "Anomaly 2 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/anomaly-2",
       "category": "Presets",
-      "sfSymbol": "square.stack.3d.up"
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "2022"
+    },
+    {
+      "id": "material-anomaly",
+      "title": "Anomaly (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/anomaly",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "2021"
     },
     {
       "id": "material-eternia",
@@ -2217,7 +2238,15 @@
       "url": "https://material.bandcamp.com/album/eternia",
       "category": "Presets",
       "sfSymbol": "square.stack.3d.up",
-      "subtitle": "For Omnisphere"
+      "subtitle": "For Omnisphere · 2021"
+    },
+    {
+      "id": "material-ancient-technology",
+      "title": "Ancient Technology (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/ancient-technology",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "2020"
     },
     {
       "id": "harmonic-horizons",
@@ -2420,6 +2449,26 @@
         "Granular",
         "AU",
         "VST3"
+      ]
+    },
+    {
+      "id": "sol",
+      "title": "SOL",
+      "subtitle": "A free reverb made with Dawesome",
+      "kind": "link",
+      "category": "Instruments",
+      "thumbnail": "plugin-sol-banner",
+      "mediaURL": "https://www.dawesomemusic.com/hues/sol/",
+      "summary": "A free reverb built around light, space and motion, created by S1gns Of L1fe with Dawesome. For Mac and Windows.",
+      "body": [
+        "SOL blends ambient space, granular glitter and tonal shimmer in one fast, intuitive interface.",
+        "GLITTER adds a granular layer and CALM smooths it. SHINE adds pitched grains an octave or two up, CLOUDS sets the size and density of the reverb, SPACE sets depth and stereo spread, and COLOR makes the wet sound darker or brighter.",
+        "Want more? Solara, Ascendant's companion pack of 20 presets for SOL, is on Material."
+      ],
+      "tags": [
+        "Plugin",
+        "Reverb",
+        "Free"
       ]
     }
   ]
