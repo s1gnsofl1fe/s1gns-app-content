@@ -1,7 +1,19 @@
 {
-  "version": 2,
-  "updatedAt": "2026-09-27",
+  "version": 3,
+  "updatedAt": "2026-10-24",
   "announcements": [
+    {
+      "id": "airglow-1-2",
+      "title": "Airglow 1.2 is here",
+      "message": "Four new engines (Sine, Granular, Particle and Luminous Field), four LFOs with a modulation matrix, 22 presets and a redesigned interface. See what's new in Shop.",
+      "expires": "2026-12-31"
+    },
+    {
+      "id": "eternia-2",
+      "title": "Eternia 2 for Omnisphere 3",
+      "message": "65 new presets from S1gns Of L1fe on Material: expansive pads, detailed textures, deep basses, plucks, bells and rhythmic sequences for ambient, space and cinematic music.",
+      "expires": "2026-12-31"
+    },
     {
       "id": "texture-loom-1-5",
       "title": "Texture Loom 1.5 is here",
@@ -1320,6 +1332,464 @@
       "url": "https://s1gnsofl1fe.bandcamp.com/album/branches-in-the-sky"
     }
   ],
+  "plugins": [
+    {
+      "id": "tranquility",
+      "name": "TRANQUILITY",
+      "platform": "Desktop",
+      "tagline": "16-voice performance synthesizer. Shape sound as a living field.",
+      "description": "A complete synthesizer that keeps sound design and performance connected. Build a patch in depth, then move through it with a playable Percentage Field and eight Performance Macros. Sold on Bandcamp as a digital album that includes the synth, factory sounds and manual.",
+      "features": [
+        "16 polyphonic voices; three main oscillators (Analog, Wavetable or Sample) plus a dedicated Sub",
+        "Percentage Field with eight host-automatable Performance Macros and WANDER auto-motion",
+        "Six workspaces: PLAY, BUILD, MOTION, SEQUENCE, FX, LIBRARY",
+        "Two independent filters, ten filter characters, serial or parallel routing",
+        "MOTION cockpit: four envelopes, four LFOs, four random generators and a Matrix",
+        "Field Composer: four patterns x 16 steps with a Field lane; export as MIDI",
+        "Nine-slot reorderable FX rack incl. Glow Reverb, Shimmer, Delay, Chorus, Distortion",
+        "Relational Field voices, channel-aware expressive MIDI / MPE",
+        "30 factory sounds plus Init, 30 wavetables, 20 samples",
+        "No serial, activation or license manager"
+      ],
+      "price": "$20",
+      "formats": [
+        "AU",
+        "VST3",
+        "Standalone"
+      ],
+      "systems": [
+        "macOS (Apple Silicon + Intel)",
+        "Windows"
+      ],
+      "url": "https://material.bandcamp.com/album/tranquility",
+      "siteURL": "https://www.s1gnsofl1fe.com/tranquility",
+      "image": "plugin-tranquility",
+      "videoURL": "https://www.youtube.com/watch?v=nOWcSJVJIss",
+      "status": "New, released 2026-09-17",
+      "gallery": [
+        "tranquility-play-view",
+        "tranquility-build-view",
+        "tranquility-motion-view",
+        "tranquility-fx-view"
+      ]
+    },
+    {
+      "id": "s1gnal-b1ome",
+      "name": "S1GNAL B1OME",
+      "platform": "Desktop",
+      "tagline": "Polyphonic drone synthesizer.",
+      "description": "Polyphonic drones and evolving harmony, with independent Tone Cells that let every note breathe. Travel the Atlas sound map from pure tonal beds to fractured, mineral and fluid textures.",
+      "features": [
+        "Every note becomes an independent Tone Cell (up to 16 at once)",
+        "Atlas sound map: Pure, Harmonic, Fractured, Mineral and Fluid territories",
+        "Deep Edit: Foundation, Harmonics, Matter, Motion and Ensemble modules",
+        "FM, feedback, folding, resonance, grain, six-voice unison",
+        "Integrated Airglow Space reverb with independent layer sends",
+        "20 factory starting points; preset and bank import/export"
+      ],
+      "price": "$10",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "systems": [
+        "macOS",
+        "Windows"
+      ],
+      "url": "https://material.bandcamp.com/album/s1gnal-b1ome",
+      "image": "plugin-s1gnal-b1ome",
+      "status": "Released 2026-08-20",
+      "gallery": []
+    },
+    {
+      "id": "airglow",
+      "name": "Airglow",
+      "platform": "Desktop",
+      "tagline": "Atmosphere instrument with eight engines, four LFOs and Glow Reverb.",
+      "description": "An atmosphere instrument for luminous particles, glassy overtones, moving air and evolving harmonic fields. Version 1.2 adds four new engines, deeper modulation and a redesigned interface, and keeps your existing presets and projects compatible. Play a few notes, choose a key and scale, and let the sources bloom through the onboard Glow Reverb.",
+      "features": [
+        "Eight engines in four source slots: Spray, Glass, Air, Dust, Sine, Granular, Particle and Luminous Field",
+        "Sine, Granular, Particle and Luminous Field follow the master key and scale, each with its own octave control",
+        "Four LFOs and a ten-route modulation matrix with curves, smoothing and right-click assignment",
+        "Glow Reverb: size, decay, tone, mix, pre-delay, diffusion and modulation",
+        "Redesigned interface with source-specific particle visuals and 100%/125% text sizes",
+        "22 factory presets and a full user library, with import and export"
+      ],
+      "price": "$6.99",
+      "formats": [
+        "AU",
+        "VST3",
+        "Standalone"
+      ],
+      "systems": [
+        "macOS (Apple Silicon + Intel)",
+        "Windows"
+      ],
+      "url": "https://s1gnsofl1fe.gumroad.com/l/airglow",
+      "image": "https://public-files.gumroad.com/s4z2g6mzzipr7gjk0comxncs3x4c",
+      "videoURL": "https://www.youtube.com/watch?v=LeChNmmtNsM",
+      "gallery": [
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/airglow-1.2/sound-synthesis.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/airglow-1.2/granular-octaves.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/airglow-1.2/modulation-matrix.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/airglow-1.2/preset-library.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/airglow-1.2/glow-reverb.jpg"
+      ],
+      "status": "New version 1.2"
+    },
+    {
+      "id": "airglow-ipad",
+      "name": "Airglow for iPad",
+      "platform": "iPad",
+      "tagline": "Touch-first atmosphere synth. Four living voices inside a luminous, playable constellation.",
+      "description": "Blend Spray, Glass, Air and Dust, reshape their connected field with multi-touch gestures, animate it with dual LFOs and let it bloom through Glow Reverb. Runs standalone or as an AUv3 instrument.",
+      "features": [
+        "Playable constellation: shape level, pan and tone with gestures",
+        "Four atmospheric voices",
+        "Two animated LFOs, eight shapes, free or tempo-synced",
+        "Glow Reverb",
+        "On-screen keyboard, octave, Hold, Panic and external MIDI",
+        "Standalone + AUv3; iPadOS 17+, landscape; no account, ads or tracking"
+      ],
+      "price": "$6.99",
+      "formats": [
+        "Standalone",
+        "AUv3"
+      ],
+      "systems": [
+        "iPadOS 17+"
+      ],
+      "url": "https://apps.apple.com/us/app/airglow-atmosphere-instrument/id6799733278",
+      "siteURL": "https://www.s1gnsofl1fe.com/airglow-ipad",
+      "image": "ipad-airglow-constellation",
+      "gallery": []
+    },
+    {
+      "id": "stellarizer",
+      "name": "Stellarizer",
+      "platform": "Desktop",
+      "tagline": "Performance MIDI sequencer. Capture first. Shape later.",
+      "description": "Capture your performance, then shape it into evolving, editable MIDI patterns. Stellarizer generates MIDI, so it can drive any software instrument, sampler, drum machine or hardware synth.",
+      "features": [
+        "Live Capture, Step Record, overdub, MIDI import and direct note drawing",
+        "Six Shape controls: Octave Spread, Contour, Rhythm, Density, Articulation, Structure",
+        "Locked Notes, Note Limit, Random Range, Scale Lock and custom scales",
+        "Pattern Playground with eight playable pattern roles and Auto Dice",
+        "GRAVITY live transposition; Recording Atlas with 32 checkpoints",
+        "Drag or export finished MIDI; MIDI Learn"
+      ],
+      "price": "$14.99",
+      "formats": [
+        "VST3",
+        "AU",
+        "AU MIDI FX"
+      ],
+      "systems": [
+        "macOS 11+",
+        "Windows x64"
+      ],
+      "url": "https://s1gnsofl1fe.gumroad.com/l/stellarizer",
+      "image": "plugin-stellarizer",
+      "videoURL": "https://www.youtube.com/watch?v=MwGQSHptyOw",
+      "gallery": []
+    },
+    {
+      "id": "stellarizer-ipad",
+      "name": "Stellarizer for iPad",
+      "platform": "iPad",
+      "tagline": "Performance MIDI sequencer for iPad.",
+      "description": "The iPad edition of Stellarizer. Capture your performance, then shape it into evolving, editable MIDI patterns that drive the instruments and apps on your iPad — standalone or as an AUv3.",
+      "price": "$7.99",
+      "formats": [
+        "Standalone",
+        "AUv3"
+      ],
+      "systems": [
+        "iPadOS"
+      ],
+      "url": "https://apps.apple.com/us/app/stellarizer/id6809219626",
+      "status": "Released 2026-09-24",
+      "image": "plugin-stellarizer",
+      "gallery": []
+    },
+    {
+      "id": "glitchwork",
+      "name": "Glitchwork",
+      "platform": "Desktop",
+      "tagline": "FM-grid percussion and a 16-step sequencer for metallic hits and broken rhythms.",
+      "description": "A focused FM Grid percussion instrument for glitch hits, broken digital pulses and cinematic micro-percussion. Each sequencer step remembers its own grid position and sound, so patterns become sequences of timbre.",
+      "features": [
+        "Continuous two-dimensional FM Grid engine",
+        "16-step sequencer with per-step sound memory",
+        "Trigger, probability, pitch, velocity, gate, ratchet, morph and grid lanes",
+        "Grid Scan for animated timbral drift",
+        "Performance macros: Stutter, Ratchet, Gate, Scatter, Impact, Echo, Flip, Width, Degrade, Texture",
+        "Plate and Hall space; 45 factory presets"
+      ],
+      "price": "$29",
+      "formats": [
+        "AU",
+        "VST3"
+      ],
+      "systems": [
+        "macOS",
+        "Windows"
+      ],
+      "url": "https://s1gnsofl1fe.gumroad.com/l/glitchwork",
+      "image": "plugin-glitchwork",
+      "videoURL": "https://www.youtube.com/watch?v=KhM2W3k4Bsc",
+      "gallery": []
+    },
+    {
+      "id": "glitchwork-ipad",
+      "name": "Glitchwork for iPad",
+      "platform": "iPad",
+      "tagline": "A continuous FM percussion lattice with sixteen complete sound memories.",
+      "description": "Glitchwork turns a two-dimensional FM Grid into a playable field of metallic ticks, broken pulses and unstable digital percussion. Every grid position is synthesis, not a sample.",
+      "features": [
+        "Continuous FM Grid",
+        "Sound Memory Sequencer: 16 steps store complete sounds",
+        "Forward, reverse, ping-pong, random and alternate motion",
+        "Move, Lock, Morph pattern transforms",
+        "Grid Scan",
+        "Stutter, ratchet, gate, scatter, plate and hall performance controls",
+        "Standalone + AUv3; iPadOS 17+, landscape"
+      ],
+      "price": "$14.99",
+      "formats": [
+        "Standalone",
+        "AUv3"
+      ],
+      "systems": [
+        "iPadOS 17+"
+      ],
+      "url": "https://apps.apple.com/us/app/glitchwork/id6798852393",
+      "siteURL": "https://www.s1gnsofl1fe.com/glitchwork-ipad",
+      "image": "ipad-glitchwork-fm-grid",
+      "priceNote": "Plugins page and App Store show $14.99; the Glitchwork iPad page still says 'Launch price $7.99'.",
+      "gallery": []
+    },
+    {
+      "id": "orbital-sequencer",
+      "name": "Orbital Sequencer",
+      "platform": "Desktop",
+      "tagline": "Scale-locked sequencer for evolving melodies and generative motion.",
+      "description": "A circular, performance-friendly MIDI sequencer that stays locked to your DAW's tempo. Shape duration, pitch, velocity, octave and mute per step, with musical dice randomization.",
+      "features": [
+        "1 to 16 steps (v1.2) with EDIT 1-8 / 9-16 pages",
+        "Per-step duration, scale-degree pitch, velocity, octave and mute",
+        "Independent dice randomization with MIN/MAX ranges",
+        "ORBIT and RHYTHMIC (1, 2, 4, 8 bar) modes",
+        "32 factory presets across two banks; user banks",
+        "Legacy Max for Live device included"
+      ],
+      "price": "$7.99",
+      "formats": [
+        "VST3",
+        "AU",
+        "AU MIDI FX",
+        "Max for Live"
+      ],
+      "systems": [
+        "macOS (Apple Silicon + Intel)",
+        "Windows"
+      ],
+      "url": "https://s1gnsofl1fe.gumroad.com/l/orbital-sequencer",
+      "image": "plugin-orbital-sequencer",
+      "gallery": []
+    },
+    {
+      "id": "orbital-sequencer-ipad",
+      "name": "Orbital Sequencer for iPad",
+      "platform": "iPad",
+      "tagline": "Scale-locked MIDI motion for evolving melodies, basslines and rhythmic phrases.",
+      "description": "Turns a circular pattern into musical movement and sends the MIDI to the instruments, hardware and iPad apps already in your setup. It generates MIDI only, not audio.",
+      "features": [
+        "ORBIT mode and RHYTHMIC mode (1, 2, 4 or 8 bars)",
+        "Scale-locked pitch",
+        "Focused Randomize + Dice",
+        "Standalone CoreMIDI app with virtual MIDI source",
+        "AUv3 MIDI Processor following host transport",
+        "iPadOS 17+, landscape"
+      ],
+      "price": "$7.99",
+      "formats": [
+        "Standalone",
+        "AUv3 MIDI"
+      ],
+      "systems": [
+        "iPadOS 17+"
+      ],
+      "url": "https://apps.apple.com/us/app/orbital-sequencer/id6801433653",
+      "siteURL": "https://www.s1gnsofl1fe.com/orbital-sequencer-ipad",
+      "image": "ipad-orbital-sequencer",
+      "gallery": []
+    },
+    {
+      "id": "modweaver",
+      "name": "Modweaver",
+      "platform": "Desktop",
+      "tagline": "Six sources. Four woven modulators. Modulation for Ableton Live.",
+      "description": "A compact Max for Live modulation device. Six source LFOs feed a Mix Matrix that blends them into four output lanes, each able to control up to four Live parameters.",
+      "features": [
+        "Six source LFOs incl. Smooth (gliding random), S&H and Steps",
+        "Mix Matrix: positive, inverted or off per connection",
+        "Four output lanes x four targets = 16 destinations",
+        "Per-lane phase, amount and Bi/Uni polarity"
+      ],
+      "price": "$5",
+      "formats": [
+        "Max for Live"
+      ],
+      "systems": [
+        "Ableton Live with Max for Live"
+      ],
+      "url": "https://s1gnsofl1fe.gumroad.com/l/modweaver",
+      "image": "plugin-modweaver",
+      "gallery": []
+    },
+    {
+      "id": "texture-loom",
+      "name": "Texture Loom",
+      "platform": "Desktop",
+      "tagline": "Two samples. Infinite atmosphere.",
+      "description": "A free dual-source sample and granular instrument (v1.5). Turn field recordings, vocals, guitar or noise into evolving pads, drones and playable clouds. Free, with an optional name-your-price contribution.",
+      "features": [
+        "Two sources, each conventional playback or granular",
+        "Grain size, density, spray, width, window and pitch jitter",
+        "Eight-voice POLY or MONO",
+        "Unified modulation matrix: up to 16 routes from Motion A and B",
+        "Two filters, serial or parallel; built-in Space reverb",
+        "BUNDLE presets with samples; banks; 26-page manual"
+      ],
+      "price": "Free",
+      "formats": [
+        "AU",
+        "VST3",
+        "Max for Live (legacy)"
+      ],
+      "systems": [
+        "macOS 11+ (Universal 2)",
+        "Windows x64"
+      ],
+      "url": "https://s1gnsofl1fe.gumroad.com/l/texture-loom",
+      "siteURL": "https://www.s1gnsofl1fe.com/s1gns-of-l1fe-plugins#texture-loom",
+      "image": "plugin-texture-loom-home-hero",
+      "videoURL": "https://www.youtube.com/watch?v=1xtDxwrQIn4",
+      "gallery": [
+        "plugin-texture-loom"
+      ]
+    },
+    {
+      "id": "texture-loom-ipad",
+      "name": "Texture Loom for iPad",
+      "platform": "iPad",
+      "tagline": "Two samples. Infinite atmosphere. On iPad.",
+      "description": "The iPad edition of Texture Loom. Two samples, infinite atmosphere: a dual-source sample and granular instrument that turns field recordings, vocals, guitar or noise into evolving textures — standalone or as an AUv3.",
+      "price": "$1.99",
+      "formats": [
+        "Standalone",
+        "AUv3"
+      ],
+      "systems": [
+        "iPadOS"
+      ],
+      "url": "https://apps.apple.com/us/app/texture-loom/id6806658277",
+      "status": "Released 2026-09-22",
+      "image": "plugin-texture-loom",
+      "gallery": []
+    },
+    {
+      "id": "parallax-well",
+      "name": "Parallax Well",
+      "platform": "Desktop",
+      "tagline": "Granular space reverb. A space that remembers.",
+      "description": "Capture incoming audio, reshape it into octave-aware grains and let it bloom through a spacious reverb chamber. Version 1.1 adds two held memories, Perspective blending and flexible modulation.",
+      "features": [
+        "Record up to 30 s; HOLD I and HOLD II memories",
+        "Perspective blends the two memories",
+        "Grain, Grain Mix, Spray, Octave Field, Pitch/Semi",
+        "Two LFOs, eight shared modulation assignments, MUTATE + UNDO",
+        "Ten factory presets; banks of up to 32 sounds",
+        "20-page manual"
+      ],
+      "price": "$7.99",
+      "formats": [
+        "AU",
+        "VST3",
+        "Standalone (macOS)",
+        "Max for Live (earlier version)"
+      ],
+      "systems": [
+        "macOS 11+",
+        "Windows x64"
+      ],
+      "url": "https://s1gnsofl1fe.gumroad.com/l/parallax-well",
+      "image": "plugin-parallax-well",
+      "gallery": []
+    },
+    {
+      "id": "parallax-well-ipad",
+      "name": "Parallax Well for iPad",
+      "platform": "iPad",
+      "tagline": "Catch a moment. Make it a world.",
+      "description": "Capture sound into two memories, move between them with Perspective, and turn a passing note into a living, playable space. Works standalone with mic or interface input, or as an AUv3 effect.",
+      "features": [
+        "Two independent memories",
+        "Perspective control",
+        "Octave-aware grains, diffusion, pre/post color, motion",
+        "Two flexible LFOs",
+        "Six factory worlds: Glasswake, Prism Rain, Lanterns of Io, After the Stars, Moth Cathedral, Obsidian Orchard",
+        "Standalone + AUv3 effect; iPadOS 16+, landscape; no account, ads or tracking"
+      ],
+      "price": "$6.99",
+      "formats": [
+        "Standalone",
+        "AUv3 effect"
+      ],
+      "systems": [
+        "iPadOS 16+"
+      ],
+      "siteURL": "https://www.s1gnsofl1fe.com/parallax-well-for-ipad-1",
+      "status": "Coming soon to the App Store",
+      "image": "ipad-parallax-well-hero",
+      "gallery": [
+        "ipad-parallax-well-01",
+        "ipad-parallax-well-02",
+        "ipad-parallax-well-03",
+        "ipad-parallax-well-04",
+        "ipad-parallax-well-05"
+      ]
+    },
+    {
+      "id": "sol",
+      "name": "SOL",
+      "platform": "Desktop",
+      "tagline": "A free reverb plugin shaped by light, space and motion.",
+      "description": "A free reverb built around illumination, made with Dawesome. It blends ambient space, granular glitter and tonal shimmer in one fast, intuitive interface.",
+      "features": [
+        "GLITTER: granular glitter layer",
+        "CALM: smooths the glitter",
+        "SHINE: pitched grains an octave or two up",
+        "CLOUDS: reverb size and density",
+        "SPACE: depth and stereo spread",
+        "COLOR: darker or brighter wet tone"
+      ],
+      "price": "Free",
+      "formats": [
+        "Mac",
+        "Windows"
+      ],
+      "url": "https://www.dawesomemusic.com/hues/sol/",
+      "siteURL": "https://www.s1gnsofl1fe.com/sol-plugin",
+      "image": "plugin-sol-banner",
+      "videoURL": "https://www.youtube.com/watch?v=jRbSgcreSOE",
+      "credit": "Created by S1gns Of L1fe in collaboration with Dawesome",
+      "gallery": [
+        "plugin-sol-interface"
+      ]
+    }
+  ],
   "links": [
     {
       "id": "spotify",
@@ -2104,6 +2574,14 @@
       "category": "Gear Picks",
       "sfSymbol": "slider.vertical.3",
       "subtitle": "Synths & effects Chris reaches for (Plugin Boutique affiliate)"
+    },
+    {
+      "id": "material-eternia-2",
+      "title": "Eternia 2 (Material preset pack)",
+      "url": "https://material.bandcamp.com/album/eternia-2",
+      "category": "Presets",
+      "sfSymbol": "square.stack.3d.up",
+      "subtitle": "For Omnisphere 3 · 2026"
     },
     {
       "id": "material-chromatic-5",
