@@ -1,25 +1,23 @@
 {
-  "version": 3,
-  "updatedAt": "2026-10-24",
+  "version": 4,
+  "updatedAt": "2026-10-29",
   "announcements": [
     {
-      "id": "airglow-1-2",
-      "title": "Airglow 1.2 is here",
-      "message": "Four new engines (Sine, Granular, Particle and Luminous Field), four LFOs with a modulation matrix, 22 presets and a redesigned interface. See what's new in Shop.",
+      "id": "s1gnal-b1ome-1-2",
+      "title": "S1GNAL B1OME 1.2 is here",
+      "message": "New PRISM and DRIFT sound sources, a source choice for every Atlas point, refreshed Resonant Space visuals and a better preset library. A free update. See what's new in Shop.",
+      "expires": "2026-12-31"
+    },
+    {
+      "id": "tranquility-1-3",
+      "title": "TRANQUILITY 1.3 is here",
+      "message": "Wavetable Studio with live waveform and harmonic editing, Wavetable LFO modulation, sequencer ratchets and pattern locks, and more. A free update.",
       "expires": "2026-12-31"
     },
     {
       "id": "eternia-2",
       "title": "Eternia 2 for Omnisphere 3",
       "message": "65 new presets from S1gns Of L1fe on Material: expansive pads, detailed textures, deep basses, plucks, bells and rhythmic sequences for ambient, space and cinematic music.",
-      "expires": "2026-12-31"
-    },
-    {
-      "id": "texture-loom-1-5",
-      "title": "Texture Loom 1.5 is here",
-      "message": "The free granular instrument now has independent granular engines, eight-voice polyphony and a new modulation workspace.",
-      "url": "https://s1gnsofl1fe.gumroad.com/l/texture-loom",
-      "cta": "Get it free",
       "expires": "2026-12-31"
     }
   ],
@@ -1338,17 +1336,19 @@
       "name": "TRANQUILITY",
       "platform": "Desktop",
       "tagline": "16-voice performance synthesizer. Shape sound as a living field.",
-      "description": "A complete synthesizer that keeps sound design and performance connected. Build a patch in depth, then move through it with a playable Percentage Field and eight Performance Macros. Sold on Bandcamp as a digital album that includes the synth, factory sounds and manual.",
+      "description": "A complete synthesizer that keeps sound design and performance connected. Build a patch in depth, then move through it with a playable Percentage Field and eight Performance Macros. Version 1.3 adds Wavetable Studio for drawing and editing your own wavetables, Wavetable LFO modulation and a deeper step sequencer.",
       "features": [
-        "16 polyphonic voices; three main oscillators (Analog, Wavetable or Sample) plus a dedicated Sub",
-        "Percentage Field with eight host-automatable Performance Macros and WANDER auto-motion",
-        "Six workspaces: PLAY, BUILD, MOTION, SEQUENCE, FX, LIBRARY",
-        "Two independent filters, ten filter characters, serial or parallel routing",
-        "MOTION cockpit: four envelopes, four LFOs, four random generators and a Matrix",
-        "Field Composer: four patterns x 16 steps with a Field lane; export as MIDI",
-        "Nine-slot reorderable FX rack incl. Glow Reverb, Shimmer, Delay, Chorus, Distortion",
-        "Relational Field voices, channel-aware expressive MIDI / MPE",
-        "30 factory sounds plus Init, 30 wavetables, 20 samples",
+        "16 polyphonic voices; three main oscillators (Analog, Wavetable, Sample or Granular) plus a Sub, with White and Pink Noise",
+        "New in 1.3: Wavetable Studio. Draw waveforms, edit harmonics and phases, shape up to 256 frames, import WAV/WT tables or save your own",
+        "New in 1.3: Wavetable LFO mode on all four LFOs, alongside drawable custom LFO shapes",
+        "Audio-rate through-zero FM and Ring modulation between oscillators",
+        "Two filters with ten characters, serial or parallel; route each source to either filter, the FX rack or direct out",
+        "MOTION: four envelopes (ADSR, DAHDSR or drawn MSEG), four LFOs, four random generators and a searchable Matrix",
+        "Percentage Field with eight Performance Macros and WANDER auto-motion; expressive MIDI, MPE and MTS-ESP tuning",
+        "Field Composer sequencer: four 16-step patterns with ratchets, pattern styles (Berlin School, Acid, Random Walk and more) and step locks; export as MIDI",
+        "Nine-slot FX rack incl. Glow Reverb, Shimmer, Delay, Chorus, Distortion, Mid/Side EQ and the new Toolkit",
+        "Classic, Dark, Light and Modern skins with adjustable text size",
+        "30 factory sounds plus Init, 30 wavetables, 20 samples; preset drag-and-drop import and Return to Edited Patch",
         "No serial, activation or license manager"
       ],
       "price": "$20",
@@ -1365,7 +1365,7 @@
       "siteURL": "https://www.s1gnsofl1fe.com/tranquility",
       "image": "plugin-tranquility",
       "videoURL": "https://www.youtube.com/watch?v=nOWcSJVJIss",
-      "status": "New, released 2026-09-17",
+      "status": "New version 1.3",
       "gallery": [
         "tranquility-play-view",
         "tranquility-build-view",
@@ -1378,28 +1378,34 @@
       "name": "S1GNAL B1OME",
       "platform": "Desktop",
       "tagline": "Polyphonic drone synthesizer.",
-      "description": "Polyphonic drones and evolving harmony, with independent Tone Cells that let every note breathe. Travel the Atlas sound map from pure tonal beds to fractured, mineral and fluid textures.",
+      "description": "Polyphonic drones and evolving harmony, with independent Tone Cells that let every note breathe. Travel the Atlas sound map and choose the source at each of its five points, from pure tonal beds to drawn harmonic spectra and granular textures. Version 1.2 adds the PRISM and DRIFT sources, refreshed Resonant Space visuals and a better preset library.",
       "features": [
         "Every note becomes an independent Tone Cell (up to 16 at once)",
-        "Atlas sound map: Pure, Harmonic, Fractured, Mineral and Fluid territories",
-        "Deep Edit: Foundation, Harmonics, Matter, Motion and Ensemble modules",
-        "FM, feedback, folding, resonance, grain, six-voice unison",
-        "Integrated Airglow Space reverb with independent layer sends",
-        "20 factory starting points; preset and bank import/export"
+        "Atlas sound map: choose Pure, Harmonic, Fractured, Mineral, Fluid, PRISM, DRIFT or None at each point",
+        "PRISM: two drawable 32-harmonic spectra with Morph, Brightness, Odd/Even, Evolution and Spread",
+        "DRIFT: granular playback of included recordings or your own WAV/AIFF audio",
+        "Integrated Resonant Space reverb with independent layer sends",
+        "Preset library with search, filters, favorites and banks; preset and bank import/export"
       ],
       "price": "$10",
       "formats": [
         "VST3",
-        "AU"
+        "AU",
+        "Standalone"
       ],
       "systems": [
         "macOS",
         "Windows"
       ],
       "url": "https://material.bandcamp.com/album/s1gnal-b1ome",
-      "image": "plugin-s1gnal-b1ome",
-      "status": "Released 2026-08-20",
-      "gallery": []
+      "image": "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/s1gnal-b1ome-1.2/hero.jpg",
+      "status": "New version 1.2",
+      "gallery": [
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/s1gnal-b1ome-1.2/atlas.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/s1gnal-b1ome-1.2/prism.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/s1gnal-b1ome-1.2/drift.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/s1gnal-b1ome-1.2/resonant-space.jpg"
+      ]
     },
     {
       "id": "airglow",
