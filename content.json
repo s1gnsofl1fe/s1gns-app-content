@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-11-01",
   "announcements": [
     {
@@ -1361,7 +1361,7 @@
         "Windows"
       ],
       "url": "https://s1gnsofl1fe.gumroad.com/l/glitchwork",
-      "image": "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/glitchwork-1.2/hero.jpg",
+      "image": "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/glitchwork-1.2/hero-card.jpg",
       "videoURL": "https://www.youtube.com/watch?v=KhM2W3k4Bsc",
       "gallery": [
         "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/glitchwork-1.2/fm-grid.jpg",
