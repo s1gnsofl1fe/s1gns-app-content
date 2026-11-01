@@ -1,7 +1,13 @@
 {
-  "version": 4,
-  "updatedAt": "2026-10-29",
+  "version": 5,
+  "updatedAt": "2026-11-01",
   "announcements": [
+    {
+      "id": "glitchwork-1-2",
+      "title": "Glitchwork 1.2 is here",
+      "message": "A new sixteen-pad Samples instrument with 10 factory kits, 48 patterns and 134 included WAVs, FM capture into Samples, modulation across the instrument and a new Prism FM palette. See what's new in Shop.",
+      "expires": "2026-12-31"
+    },
     {
       "id": "s1gnal-b1ome-1-2",
       "title": "S1GNAL B1OME 1.2 is here",
@@ -12,12 +18,6 @@
       "id": "tranquility-1-3",
       "title": "TRANQUILITY 1.3 is here",
       "message": "Wavetable Studio with live waveform and harmonic editing, Wavetable LFO modulation, sequencer ratchets and pattern locks, and more. A free update.",
-      "expires": "2026-12-31"
-    },
-    {
-      "id": "eternia-2",
-      "title": "Eternia 2 for Omnisphere 3",
-      "message": "65 new presets from S1gns Of L1fe on Material: expansive pads, detailed textures, deep basses, plucks, bells and rhythmic sequences for ambient, space and cinematic music.",
       "expires": "2026-12-31"
     }
   ],
@@ -1332,6 +1332,74 @@
   ],
   "plugins": [
     {
+      "id": "glitchwork",
+      "name": "Glitchwork",
+      "platform": "Desktop",
+      "tagline": "FM Grid percussion and a sixteen-pad Samples instrument for metallic hits and broken rhythms.",
+      "description": "A focused FM Grid percussion instrument for glitch hits, broken digital pulses and cinematic micro-percussion, now with a separate sixteen-pad Samples instrument. Load your own sounds, explore the included kits, or capture an FM hit or sixteen-step sequence straight into Samples.",
+      "features": [
+        "New in 1.2: Samples instrument with sixteen independent pads. Load WAV or AIFF, then shape sounds with Trim, Repeat, tuning, envelopes, filtering, drive and reverse",
+        "New in 1.2: 10 factory Samples kits, 48 patterns and 134 included WAVs",
+        "New in 1.2: per-pad sequence lengths and rates, lane locks, scoped Randomize, Morph and timed Dice",
+        "New in 1.2: modulation across 28 Samples destinations, with global and individual-pad routing",
+        "New in 1.2: capture a single FM hit or a sixteen-step sequence into Samples, with Undo",
+        "Continuous two-dimensional FM Grid engine with Classic and Prism palettes",
+        "16-step sequencer with per-step sound memory",
+        "Trigger, probability, pitch, velocity, gate, ratchet, morph and grid lanes",
+        "Grid Scan for animated timbral drift",
+        "Performance macros: Stutter, Ratchet, Gate, Scatter, Impact, Echo, Flip, Width, Degrade, Texture",
+        "Plate and Hall space; 45 factory FM presets"
+      ],
+      "price": "$29",
+      "formats": [
+        "AU",
+        "VST3",
+        "Standalone"
+      ],
+      "systems": [
+        "macOS",
+        "Windows"
+      ],
+      "url": "https://s1gnsofl1fe.gumroad.com/l/glitchwork",
+      "image": "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/glitchwork-1.2/hero.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=KhM2W3k4Bsc",
+      "gallery": [
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/glitchwork-1.2/fm-grid.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/glitchwork-1.2/samples.jpg",
+        "https://raw.githubusercontent.com/s1gnsofl1fe/s1gns-app-content/main/images/glitchwork-1.2/samples-sequencer.jpg"
+      ],
+      "status": "New version 1.2"
+    },
+    {
+      "id": "glitchwork-ipad",
+      "name": "Glitchwork for iPad",
+      "platform": "iPad",
+      "tagline": "A continuous FM percussion lattice with sixteen complete sound memories.",
+      "description": "Glitchwork turns a two-dimensional FM Grid into a playable field of metallic ticks, broken pulses and unstable digital percussion. Every grid position is synthesis, not a sample.",
+      "features": [
+        "Continuous FM Grid",
+        "Sound Memory Sequencer: 16 steps store complete sounds",
+        "Forward, reverse, ping-pong, random and alternate motion",
+        "Move, Lock, Morph pattern transforms",
+        "Grid Scan",
+        "Stutter, ratchet, gate, scatter, plate and hall performance controls",
+        "Standalone + AUv3; iPadOS 17+, landscape"
+      ],
+      "price": "$14.99",
+      "formats": [
+        "Standalone",
+        "AUv3"
+      ],
+      "systems": [
+        "iPadOS 17+"
+      ],
+      "url": "https://apps.apple.com/us/app/glitchwork/id6798852393",
+      "siteURL": "https://www.s1gnsofl1fe.com/glitchwork-ipad",
+      "image": "ipad-glitchwork-fm-grid",
+      "priceNote": "Plugins page and App Store show $14.99; the Glitchwork iPad page still says 'Launch price $7.99'.",
+      "gallery": []
+    },
+    {
       "id": "tranquility",
       "name": "TRANQUILITY",
       "platform": "Desktop",
@@ -1516,63 +1584,6 @@
       "url": "https://apps.apple.com/us/app/stellarizer/id6809219626",
       "status": "Released 2026-09-24",
       "image": "plugin-stellarizer",
-      "gallery": []
-    },
-    {
-      "id": "glitchwork",
-      "name": "Glitchwork",
-      "platform": "Desktop",
-      "tagline": "FM-grid percussion and a 16-step sequencer for metallic hits and broken rhythms.",
-      "description": "A focused FM Grid percussion instrument for glitch hits, broken digital pulses and cinematic micro-percussion. Each sequencer step remembers its own grid position and sound, so patterns become sequences of timbre.",
-      "features": [
-        "Continuous two-dimensional FM Grid engine",
-        "16-step sequencer with per-step sound memory",
-        "Trigger, probability, pitch, velocity, gate, ratchet, morph and grid lanes",
-        "Grid Scan for animated timbral drift",
-        "Performance macros: Stutter, Ratchet, Gate, Scatter, Impact, Echo, Flip, Width, Degrade, Texture",
-        "Plate and Hall space; 45 factory presets"
-      ],
-      "price": "$29",
-      "formats": [
-        "AU",
-        "VST3"
-      ],
-      "systems": [
-        "macOS",
-        "Windows"
-      ],
-      "url": "https://s1gnsofl1fe.gumroad.com/l/glitchwork",
-      "image": "plugin-glitchwork",
-      "videoURL": "https://www.youtube.com/watch?v=KhM2W3k4Bsc",
-      "gallery": []
-    },
-    {
-      "id": "glitchwork-ipad",
-      "name": "Glitchwork for iPad",
-      "platform": "iPad",
-      "tagline": "A continuous FM percussion lattice with sixteen complete sound memories.",
-      "description": "Glitchwork turns a two-dimensional FM Grid into a playable field of metallic ticks, broken pulses and unstable digital percussion. Every grid position is synthesis, not a sample.",
-      "features": [
-        "Continuous FM Grid",
-        "Sound Memory Sequencer: 16 steps store complete sounds",
-        "Forward, reverse, ping-pong, random and alternate motion",
-        "Move, Lock, Morph pattern transforms",
-        "Grid Scan",
-        "Stutter, ratchet, gate, scatter, plate and hall performance controls",
-        "Standalone + AUv3; iPadOS 17+, landscape"
-      ],
-      "price": "$14.99",
-      "formats": [
-        "Standalone",
-        "AUv3"
-      ],
-      "systems": [
-        "iPadOS 17+"
-      ],
-      "url": "https://apps.apple.com/us/app/glitchwork/id6798852393",
-      "siteURL": "https://www.s1gnsofl1fe.com/glitchwork-ipad",
-      "image": "ipad-glitchwork-fm-grid",
-      "priceNote": "Plugins page and App Store show $14.99; the Glitchwork iPad page still says 'Launch price $7.99'.",
       "gallery": []
     },
     {
