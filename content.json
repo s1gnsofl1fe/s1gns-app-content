@@ -1,11 +1,11 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-11-01",
   "announcements": [
     {
       "id": "glitchwork-1-2",
       "title": "Glitchwork 1.2 is here",
-      "message": "A new sixteen-pad Samples instrument with 10 factory kits, 48 patterns and 134 included WAVs, FM capture into Samples, modulation across the instrument and a new Prism FM palette. See what's new in Shop.",
+      "message": "A new sixteen-pad Samples instrument with 10 factory kits, 48 patterns and 134 included WAVs, FM capture into Samples, modulation across the instrument and a new Prism FM palette. A free update. See what's new in Shop.",
       "expires": "2026-12-31"
     },
     {
